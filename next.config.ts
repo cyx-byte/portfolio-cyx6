@@ -7,7 +7,7 @@ const nextConfig: NextConfig = {
     return [
       {
         source: '/uploads/:path*',
-        destination: 'https://portfolio-cyx6-1446625869.cos-website.ap-guangzhou.myqcloud.com/uploads/:path*',
+        destination: 'https://my-website-images-1446625869.cos-website.ap-guangzhou.myqcloud.com/uploads/:path*',
       },
     ];
   },
