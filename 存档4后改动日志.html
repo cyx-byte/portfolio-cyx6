@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head><meta charset="UTF-8"><title>存档4后改动日志</title>
+<style>
+body{font-family:"Microsoft YaHei",sans-serif;max-width:900px;margin:40px auto;color:#2d2d2d;line-height:2}
+h1{border-bottom:3px solid #2d2d2d;padding-bottom:10px;font-size:24px}
+h2{margin-top:40px;color:#000;border-bottom:2px solid #888;padding-bottom:6px;font-size:20px}
+h3{color:#333;font-size:16px;margin-top:22px}
+ul{padding-left:24px}li{margin:8px 0}
+code{background:#f3f3f3;padding:2px 6px;border-radius:3px;font-size:13px;font-family:Consolas,monospace}
+pre{background:#f5f5f5;padding:14px;border-radius:4px;font-size:12px;overflow-x:auto;border:1px solid #ddd}
+.note{background:#fffde7;padding:10px 14px;border-left:4px solid #ffc107;margin:12px 0}
+.file{color:#555;font-weight:bold}
+</style></head>
+<body>
+
+<h1>存档4后逐板块改动日志</h1>
+
+<p class="note">基于代号 存档4（2025-06-20）的代码状态。仅记录代码与交互变更，不含OSS/Cloudflare/Gitee 等部署操作。</p>
+
+<hr>
+
+<h1>一、首页</h1>
+
+<h2>1. 双封面（前/后切换）</h2>
+
+<p class="file">新建：src/components/home/HomeCover.tsx</p>
+<ul>
+<li><code>frontSrc</code> / <code>backSrc</code> / <code>hovered</code> 三个 props</li>
+<li>未悬停→前图；悬停→crossfade 切换为后图（AnimatePresence, 0.5s）</li>
+<li>1:1 正方形，200px</li>
+<li>仅传一张时始终显示那张</li>
+</ul>
+
+<p class="file">修改：src/types/index.ts</p>
+<pre>export interface SiteConfig {
+  name: string;
+  title: string;
+  homeCoverFront?: string;   // 新增
+  homeCoverBack?: string;    // 新增
+}</pre>
+
+<p class="file">修改：src/components/home/HomePage.tsx</p>
+<ul>
+<li>新增 props <code>homeCoverFront</code> <code>homeCoverBack</code></li>
+<li>模板顶部插入 <code>&lt;HomeCover /&gt;</code></li>
+<li>外层容器 <code>-mt-20</code></li>
+</ul>
+
+<p class="file">修改：src/app/page.tsx</p>
+<ul>
+<li>从 siteData 读取封面 URL 传入 HomePage</li>
+</ul>
+
+<p class="file">修改：src/components/admin/AdminDashboard.tsx</p>
+<ul>
+<li>网站设置区域新增"首页封面（前）"和"首页封面（后）"两个 PhotoUploader（aspectRatio=1）</li>
+</ul>
+
+<h2>2. 导航栏在首页显示</h2>
+
+<p class="file">修改：src/components/layout/Navbar.tsx</p>
+<ul>
+<li>删除 <code>if (pathname === "/") return null;</code></li>
+<li>首页：左侧隐藏名字，右侧显示 5 个链接，<code>justify-end</code></li>
+<li>子页：左侧名字，右侧链接，<code>justify-between</code></li>
+</ul>
+
+<h2>3. 悬停检测改用 mousemove</h2>
+
+<p class="file">修改：src/components/home/HomePage.tsx</p>
+<ul>
+<li>删掉 <code>onMouseEnter</code> / <code>onMouseLeave</code></li>
+<li>添加 <code>onMouseMove</code>：计算鼠标到页面中心距离</li>
+<li>纵向阈值 196px、横向 220px 以内=悬停</li>
+<li>容器 <code>onMouseLeave</code> 兜底</li>
+</ul>
+
+<h2>4. 位置参数</h2>
+<ul>
+<li>内容块 <code>-mt-20</code></li>
+<li>封面到名字 <code>mb-[68px]</code></li>
+<li>名字到导航 <code>mt-4</code></li>
+</ul>
+
+<hr>
+
+<h1>二、关于我</h1>
+
+<h2>1. 英文副标题</h2>
+<p class="file">修改：src/app/[section]/page.tsx</p>
+<ul>
+<li>新增 ENGLISH_TITLES 常量映射（about→ABOUT ME 等）</li>
+<li>标题下方显示英文副标题</li>
+</ul>
+
+<h2>2. 信息模块 → 支持富文本</h2>
+
+<p class="file">修改：src/types/index.ts</p>
+<ul>
+<li><code>InfoModule</code> 拆为 <code>InfoModuleText</code>（moduleType="text"：content/fontSize/fontWeight）和 <code>InfoModuleTable</code>（moduleType="table"：table 含 rows/cells）</li>
+</ul>
+
+<p class="file">修改：src/components/about/InfoModules.tsx</p>
+<ul>
+<li><code>TextModule</code>：dangerouslySetInnerHTML 渲染 HTML + whitespace-pre-line 换行</li>
+<li><code>TableModule</code>：每行独立列数（TableRow.cells 各自含 width 百分比），每格 rgba(fontSize+fontWeight+bgColor+bgOpacity) 渲染</li>
+<li>模块容器 <code>style=maxWidth</code>（从 mod.maxWidth 读取）</li>
+<li>表格单元格类 <code>table-cell-display</code></li>
+</ul>
+
+<p class="file">新建：src/components/admin/RichTextEditor.tsx</p>
+<ul>
+<li>contentEditable div，B（execCommand bold）+ 字号下拉（applyFontSize 包裹 span）</li>
+<li>字体统一使用 SANS_FONT</li>
+</ul>
+
+<p class="file">修改：src/components/admin/AdminDashboard.tsx</p>
+<ul>
+<li>AboutEditor 模块编辑区：用 RichTextEditor 替换原来的 input</li>
+<li>模块标签旁增加"宽度"输入框（控制展示 maxWidth）</li>
+<li>添加模块按钮拆为"文本模块"和"表格模块"两个</li>
+<li>TableEditor：独立组件，行列增删、列宽输入、每格富文本+底纹色+透明度拉条+统一工具栏</li>
+</ul>
+
+<h2>3. 布局比例</h2>
+<ul>
+<li>照片左 <code>md:w-[25%]</code>，模块右 <code>md:w-[75%]</code></li>
+<li>整体 <code>max-w-[1200px]</code></li>
+</ul>
+
+<hr>
+
+<h1>三、建筑设计</h1>
+
+<h2>1. 图纸分类</h2>
+
+<p class="file">修改：src/types/index.ts</p>
+<pre>export interface Drawing {
+  ...
+  category?: string;   // 新增
+}</pre>
+
+<p class="file">修改：src/components/admin/AdminDashboard.tsx</p>
+<ul>
+<li>每张图纸行新增"分类"输入框（在题头前）</li>
+<li>图纸列表顶部批量分类栏：复选框+"全选"按钮+分类名输入+"应用"按钮</li>
+<li>勾选图纸→输入分类名→"应用"→批量赋值</li>
+</ul>
+
+<p class="file">修改：src/components/projects/ProjectDetail.tsx</p>
+<ul>
+<li>图纸区按 category 分组，每组显示大标题（font-serif text-lg），组间分隔线（border-t）</li>
+<li>未分类图纸排在最后</li>
+<li>全局 idxMap 保 DrawingViewer 索引正确</li>
+</ul>
+
+<h2>2. 详情页封面隐藏</h2>
+<p class="file">修改：src/components/projects/ProjectDetail.tsx</p>
+<pre>{sectionId !== "architecture" && project.coverImage && (
+  &lt;div className="aspect-square ..."&gt;&lt;img/&gt;&lt;/div&gt;
+)}</pre>
+
+<h2>3. 详情页左右互换</h2>
+<ul>
+<li>描述（description）→ 左侧 flex-1</li>
+<li>信息模块+封面 → 右侧 w-[300px]</li>
+</ul>
+
+<h2>4. 图纸切换：淡入淡出（相较 ZINE 的翻书）</h2>
+
+<p class="file">修改：src/components/projects/DrawingViewer.tsx</p>
+<ul>
+<li>新增 <code>flipAnimation</code> prop（默认 true）</li>
+<li>为 false 时：跳过 BookFlipImage → AnimatePresence + motion.img（0.18s opacity）</li>
+<li><code>go()</code> 在 flipAnimation=false 时直接 <code>onNavigate</code></li>
+<li>左侧文字面板独立 AnimatePresence（key=textIdx, 0.18s）</li>
+</ul>
+
+<p class="file">修改：src/components/projects/ProjectDetail.tsx</p>
+<ul>
+<li>新增 flipAnimation prop 并传入 DrawingViewer</li>
+</ul>
+
+<p class="file">修改：src/app/[section]/[projectId]/page.tsx</p>
+<pre>flipAnimation={sectionId !== "architecture"}  // 建筑=淡入淡出，ZINE=翻书</pre>
+
+<h2>5. 跨项目循环导航</h2>
+
+<p class="file">新建：src/components/projects/CircularNav.tsx</p>
+<ul>
+<li>替代原先固定的 ←上一个/下一个→ Link</li>
+<li>首尾相连逻辑：第一篇←→弹窗跳最后一篇；最后一篇→→弹窗跳第一篇</li>
+<li>弹窗居中，是/否两个按钮</li>
+</ul>
+
+<p class="file">修改：src/lib/data.ts</p>
+<pre>getAdjacentProjects(...): { prevId, nextId, firstId, lastId }  // 新增后两者</pre>
+
+<p class="file">修改：src/app/[section]/[projectId]/page.tsx</p>
+<ul>
+<li>解构 firstId/lastId 传入 ProjectDetail 及 ArticleDetail</li>
+</ul>
+
+<h2>6. 移除章节功能（⊕章节）</h2>
+<p class="file">修改：src/components/admin/AdminDashboard.tsx</p>
+<ul>
+<li>删除每张图纸行的"⊕章节"按钮</li>
+<li>删除图纸行下方的章节编辑器（sections map）</li>
+</ul>
+
+<h2>7. DrawingGrid 展示</h2>
+<ul>
+<li>grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4（4 列网格）</li>
+<li>卡片 aspect-[3/2]</li>
+<li>Next.js Image 自动优化，不加 unoptimized</li>
+</ul>
+
+<hr>
+
+<h1>四、ZINE</h1>
+
+<h2>1. 图纸 → 图册</h2>
+<p class="file">修改文件：page.tsx / AdminDashboard.tsx / ProjectDetail.tsx / DrawingViewer.tsx / DrawingGrid.tsx</p>
+<ul>
+<li>所有显示"图纸"处根据 sectionId 动态显示"图册"（sectionId==="zine" ? "图册" : "图纸"）</li>
+<li>DrawingGrid emptyLabel/placeholderLabel 同步切换</li>
+<li>DrawingViewer 跨项目弹窗文字同步切换</li>
+</ul>
+
+<h2>2. 封面保留 + 翻书动画保留</h2>
+<ul>
+<li>封面：仅建筑隐藏（sectionId!=="architecture"），ZINE 保留</li>
+<li>flipAnimation=true，走 BookFlipImage 翻书效果</li>
+<li>图纸分类、批量分类、跨项目循环导航皆同步生效</li>
+</ul>
+
+<h2>3. 翻书动画参数</h2>
+<p class="file">修改：src/components/projects/BookFlipImage.tsx</p>
+<ul>
+<li>旋转轴：图片中轴（右半页 left:50%，transformOrigin:left center）</li>
+<li>向前：rotateY 0→-65°+opacity 1→0（0.6s）</li>
+<li>向后：rotateY 0→65°+opacity 1→0</li>
+<li>底下新图：opacity 0→1（0.35s）</li>
+<li>曲面阴影：linear-gradient 模拟弯曲（轴侧深→中部浅→边微深）</li>
+<li>perspective:700px, perspectiveOrigin:center</li>
+</ul>
+
+<hr>
+
+<h1>五、公众号图文</h1>
+
+<h2>1. 结构：ArticleDetail 组件</h2>
+<p class="file">新建/修改：src/components/projects/ArticleDetail.tsx</p>
+<p class="file">修改：src/app/[section]/[projectId]/page.tsx</p>
+<ul>
+<li>articles 路由→ArticleDetail（而非 ProjectDetail）</li>
+<li>顶部=序号+标题</li>
+<li>摘要区=封面（1:1 280px）+ info 字段行+description（RichHTML）</li>
+<li>阅读窗格=边框容器（-mx-4 md:-mx-16 拓宽），内为 overflow-y-auto 滚动区（max-h:75vh）</li>
+<li>长图源：drawings 数组中所有有 image 的项，连续渲染为 img 标签实现无缝拼接</li>
+</ul>
+
+<h2>2. 缩放</h2>
+<ul>
+<li>初始 zoom=40%，范围 30%-150%，步进 10%</li>
+<li>右上角 −/+/百分比按钮</li>
+<li>Alt+鼠标滚轮（e.preventDefault 防页面滚动）</li>
+<li>zoom>100%：可拖拽平移（mousedown/mousemove/mouseup）+ cursor=grab</li>
+<li>zoom≤100%：pan 复位 {0,0}</li>
+</ul>
+
+<h2>3. 自动阅读</h2>
+<ul>
+<li>标题栏"▶ 自动阅读"按钮（激活后变"⏸ 停止"）</li>
+<li>rAF 循环 scrollTop 增量（speedRef px/s）</li>
+<li>速度拉条 45-200 px/s（默认 80）</li>
+<li>滚到底自动停止</li>
+<li>用户 wheel/touchstart→立即停止（addEventListener, passive:true）</li>
+</ul>
+
+<h2>4. 内容向导（右侧章节栏）</h2>
+<p class="file">修改：src/types/index.ts</p>
+<pre>export interface ImageSection { id:string; title:string; position:number; }</pre>
+<p>Drawing.sections?: ImageSection[]  // 新增</p>
+
+<p class="file">修改：src/components/projects/ArticleDetail.tsx</p>
+<ul>
+<li>右侧 36px 宽"内容向导"栏，列出按 position 排序的章节标题</li>
+<li>scroll 事件监听，当前章节高亮（深色bg白色文字）</li>
+<li>点击标题→scrollTo(position%)</li>
+</ul>
+
+<p class="file">修改：src/components/projects/DrawingViewer.tsx</p>
+<ul>
+<li>新增 adminMode + sections + onAddSection + onMoveSection props</li>
+<li>adminMode 时图片上叠加蓝色横线标注章节位置，可拖拽（onMoveSection）</li>
+<li>adminMode 时在图片上点击→自动计算位置百分比→添加章节</li>
+<li>右上角缩放控件（−/+/%，10%-200%，步进 10%）</li>
+</ul>
+
+<p class="file">修改：src/components/admin/AdminDashboard.tsx</p>
+<ul>
+<li>绿点预览 DrawingViewer 时传入 adminMode/sections/onAddSection/onMoveSection</li>
+</ul>
+
+<hr>
+
+<h1>六、联系方式</h1>
+
+<h2>1. 布局独立</h2>
+<p class="file">修改：src/app/[section]/page.tsx</p>
+<ul>
+<li>sectionId==="contact" 时采用独立布局：照片+名字在上，模块在下，全部居中</li>
+<li>sectionId==="about" 时保持原左右分栏布局</li>
+</ul>
+
+<h2>2. 照片 1:1</h2>
+<p class="file">修改：src/components/about/PhotoSection.tsx</p>
+<ul>
+<li>新增 <code>aspectRatio</code> prop（默认"3/4"），为"1/1"时尺寸 180px、居中对齐</li>
+<li>名字对齐随 aspectRatio 变化（isSquare→text-center）</li>
+</ul>
+
+<p class="file">修改：src/app/[section]/page.tsx</p>
+<pre>&lt;PhotoSection aspectRatio="1/1" ... /&gt;</pre>
+
+<h2>3. 模块居中</h2>
+<p class="file">修改：src/components/about/InfoModules.tsx</p>
+<ul>
+<li>新增 <code>centered</code> prop，标签和内容均 text-center</li>
+</ul>
+
+<p class="file">修改：src/app/[section]/page.tsx</p>
+<pre>&lt;InfoModules centered ... /&gt;</pre>
+
+<h2>4. 管理后台 PhotoUploader 适配</h2>
+<p class="file">修改：src/components/admin/AdminDashboard.tsx</p>
+<ul>
+<li>section.id==="contact" 时 aspectRatio=1, previewClassName="w-32 aspect-square"</li>
+</ul>
+
+<hr>
+
+<h1>七、基础设施</h1>
+
+<h2>1. 字体</h2>
+<p class="file">修改：src/app/layout.tsx</p>
+<ul><li>新增 Inter 字体（next/font/google: Inter, weights 300-700）</li></ul>
+<p class="file">修改：src/app/globals.css</p>
+<ul>
+<li>--font-sans: Inter→Noto Sans SC→系统字体</li>
+<li>全局规则：[contenteditable] input textarea select button table td th 统一字体</li>
+<li>.table-cell-display * { font-size: inherit !important }</li>
+</ul>
+<p class="file">新建：src/lib/fonts.ts</p>
+<ul><li>导出 SANS_FONT 常量供 RichTextEditor 和 TableEditor 使用</li></ul>
+
+<h2>2. 富文本编辑器修复</h2>
+<p class="file">修改：src/components/admin/RichTextEditor.tsx</p>
+<ul><li>删除 lastValueRef（初值 bug），改为直接比较 el.innerHTML !== value</li></ul>
+<p class="file">修改：src/components/admin/TableEditor.tsx</p>
+<ul>
+<li>CellInput：新增 fontSize/fontWeight prop，直接写入 style（不再 rely CSS inherit）</li>
+<li>新增 cleanHtml()：去除 font-size 内联样式、font 标签（字号回归 cell 属性管理）</li>
+</ul>
+
+<h2>3. 图片</h2>
+<p class="file">修改：src/components/admin/PhotoUploader.tsx</p>
+<ul>
+<li>新增 aspectRatio、previewClassName props</li>
+<li>裁剪输出改为 PNG（canvas.toBlob("image/png")）</li>
+</ul>
+<ul>
+<li>DrawingGrid 缩略图：无 unoptimized</li>
+<li>DrawingViewer 大图：有 unoptimized</li>
+<li>管理员缩略图：绿点/灰点（不加载图片，防卡顿）</li>
+</ul>
+
+<h2>4. 封面比例汇总</h2>
+<table border="1" cellpadding="6" cellspacing="0" style="border-collapse:collapse;width:100%">
+<tr><th>位置</th><th>aspectRatio</th><th>previewClassName</th></tr>
+<tr><td>首页封面</td><td>1</td><td>w-32 aspect-square</td></tr>
+<tr><td>关于我照片</td><td>3/4</td><td>w-32 h-40</td></tr>
+<tr><td>联系方式照片</td><td>1</td><td>w-32 aspect-square</td></tr>
+<tr><td>项目封面</td><td>1</td><td>w-24 aspect-square</td></tr>
+</table>
+
+<h2>5. ProjectCard 封面</h2>
+<p class="file">修改：src/components/projects/ProjectCard.tsx</p>
+<ul>
+<li>图片容器 aspect-square（1:1）</li>
+<li>w-full（由网格 Column 控制等宽）</li>
+<li>Link 添加 className="block w-full"</li>
+</ul>
+
+<h2>6. 全局 CSS</h2>
+<p class="file">修改：src/app/globals.css</p>
+<ul>
+<li>统一字体规则：input/textarea/select/button/table/td/th/[contenteditable] 全部继承 --font-sans</li>
+<li>.table-cell-display * { font-size: inherit !important }</li>
+</ul>
+
+<h2>7. generateStaticParams</h2>
+<p class="file">修改：src/app/[section]/[projectId]/page.tsx</p>
+<ul><li>新增 generateStaticParams，遍历所有 enabled 的 projects 板块生成静态路径</li></ul>
+
+<h2>8. API 路由处理方式</h2>
+<ul>
+<li>构建静态站点前，将 src/app/api → src/app/_api_disabled</li>
+<li>本地开发时移回 src/app/api</li>
+<li>rebuild.bat 自动处理此步骤</li>
+</ul>
+
+<hr>
+<p style="color:#888;text-align:center;margin-top:40px">— END —</p>
+</body></html>

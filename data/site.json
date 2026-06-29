@@ -1,0 +1,3250 @@
+{
+  "site": {
+    "name": "蔡宇翔",
+    "title": "ARCHITECT - Master's",
+    "homeCoverFront": "/uploads/1782388505885-ewfgj6.jpg",
+    "homeCoverBack": "/uploads/1782388512481-iz86bu.jpg"
+  },
+  "sections": [
+    {
+      "id": "about",
+      "title": "关于我",
+      "enabled": true,
+      "order": 1,
+      "type": "about",
+      "data": {
+        "photo": "/uploads/1781882369944-t2erac.jpg",
+        "modules": [
+          {
+            "id": "m-1781861374180",
+            "moduleType": "table",
+            "label": "教育背景",
+            "table": {
+              "rows": [
+                {
+                  "id": "row-1781862041781",
+                  "cells": [
+                    {
+                      "id": "cell-1781862041781",
+                      "content": "厦门大学",
+                      "bgColor": "#f5f4f0",
+                      "bgOpacity": 100,
+                      "width": "25%",
+                      "fontSize": "14px",
+                      "fontWeight": "bold"
+                    },
+                    {
+                      "id": "cell-1781862065989",
+                      "content": "2024.09 — 2027.06<br>",
+                      "bgColor": "#f5f4f0",
+                      "bgOpacity": 100,
+                      "width": "32%",
+                      "fontSize": "14px"
+                    },
+                    {
+                      "id": "cell-1781862066837",
+                      "content": "<font face=\"微软雅黑\"><span style=\"font-size: 14.6667px;\">建筑学 | 硕士</span></font><br>",
+                      "bgColor": "#f5f4f0",
+                      "bgOpacity": 100,
+                      "width": "23%",
+                      "fontSize": "14px"
+                    },
+                    {
+                      "id": "cell-1781862067348",
+                      "content": "GPA: 3.76/4(前20%)<br>",
+                      "bgColor": "#f5f4f0",
+                      "bgOpacity": 100,
+                      "width": "25%",
+                      "fontSize": "14px",
+                      "fontWeight": "bold"
+                    }
+                  ]
+                },
+                {
+                  "id": "row-1781862046997",
+                  "cells": [
+                    {
+                      "id": "cell-1781862046997",
+                      "content": "主修：建成环境科学（95）、建筑技术科学前沿（92）、数字建筑理论与方法（91）等。<br>",
+                      "bgColor": "",
+                      "bgOpacity": 100,
+                      "width": "100%",
+                      "fontSize": "12px",
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "id": "row-1781862059620",
+                  "cells": [
+                    {
+                      "id": "cell-1781862059620",
+                      "content": "<span style=\"font-weight: bolder;\"><span style=\"font-family: 微软雅黑; font-size: 11pt;\">厦门大学</span></span>",
+                      "bgColor": "#f5f4f0",
+                      "bgOpacity": 100,
+                      "width": "25%",
+                      "fontSize": "14px"
+                    },
+                    {
+                      "id": "cell-1781862072700",
+                      "content": "<span>2019.09</span><span> — 2024.06</span>",
+                      "bgColor": "#f5f4f0",
+                      "bgOpacity": 100,
+                      "width": "32%",
+                      "fontSize": "14px"
+                    },
+                    {
+                      "id": "cell-1781862073452",
+                      "content": "<span style=\"mso-spacerun:'yes';font-family:微软雅黑;mso-bidi-font-family:'Times New Roman';\nmso-ansi-font-weight:normal;mso-bidi-font-weight:bold;font-size:11.0000pt;\nmso-font-kerning:1.0000pt;\">建筑学 </span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;mso-bidi-font-family:'Times New Roman';\nmso-ansi-font-weight:normal;mso-bidi-font-weight:bold;font-size:11.0000pt;\nmso-font-kerning:1.0000pt;\">| </span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;mso-bidi-font-family:'Times New Roman';\nmso-ansi-font-weight:normal;mso-bidi-font-weight:bold;font-size:11.0000pt;\nmso-font-kerning:1.0000pt;\">本科</span>",
+                      "bgColor": "#f5f4f0",
+                      "bgOpacity": 100,
+                      "width": "23%",
+                      "fontSize": "14px"
+                    },
+                    {
+                      "id": "cell-1781862073916",
+                      "content": "GPA: 3.53/4(前25%)<br>",
+                      "bgColor": "#f5f4f0",
+                      "bgOpacity": 100,
+                      "width": "25%",
+                      "fontWeight": "bold",
+                      "fontSize": "14px"
+                    }
+                  ]
+                },
+                {
+                  "id": "row-1781862060828",
+                  "cells": [
+                    {
+                      "id": "cell-1781862060828",
+                      "content": "主修：计算机辅助设计（90）、建筑数字设计技术（90/91）、数字建筑设计理论（90）、计算设计实验（A-）等。<br>",
+                      "bgColor": "",
+                      "bgOpacity": 100,
+                      "width": "100%",
+                      "fontSize": "12px"
+                    }
+                  ]
+                }
+              ]
+            },
+            "maxWidth": "120%"
+          },
+          {
+            "id": "m-1781863911768",
+            "moduleType": "table",
+            "label": "项目经历",
+            "table": {
+              "rows": [
+                {
+                  "id": "row-1781863911768",
+                  "cells": [
+                    {
+                      "id": "cell-1781863911768-1",
+                      "content": "<b><span>（一）「筑视嘉庚」——嘉庚建筑视觉感知研究与文化推广产品</span></b>",
+                      "bgColor": "#f5f4f0",
+                      "bgOpacity": 100,
+                      "width": "68%",
+                      "fontSize": "14px",
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "id": "cell-1781863911768-2",
+                      "content": "<span>2020 </span><span>— </span><span>2021</span>",
+                      "bgColor": "#f5f4f0",
+                      "bgOpacity": 100,
+                      "width": "17%",
+                      "fontSize": "14px",
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "id": "cell-1781863921376-lko1",
+                      "content": "<b><span>核心成员</span></b>",
+                      "bgColor": "#f5f4f0",
+                      "bgOpacity": 100,
+                      "width": "15%",
+                      "fontSize": "14px",
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "id": "row-1781863985096",
+                  "cells": [
+                    {
+                      "id": "cell-1781863985096-9cga",
+                      "content": "<p class=\"15\" style=\"margin-left:14.1750pt;text-indent:-14.2000pt;mso-char-indent-count:-1.3500;\ntext-autospace:ideograph-numeric;mso-pagination:none;mso-list:l0 level1 lfo1;\">1.<b>项目地推：</b><span>于校园开展</span><b><span>3</span></b><span>次地推，以趣味游戏、赠品赠送等形式吸引师生、游客，成功回收</span><b><span>73</span></b><span>份有效眼动数据。</span><span><o:p></o:p></span></p><p class=\"15\" style=\"margin-left:14.1750pt;text-indent:-14.2000pt;mso-char-indent-count:-1.3500;\ntext-autospace:ideograph-numeric;mso-pagination:none;mso-list:l0 level1 lfo1;\">2.<b>产品运营：</b><span>基于数据分析结果设计</span><b><span>4</span></b><span>版</span><b><span>文创明信片</span></b><span>，得到广泛好评；</span></p><p class=\"15\" style=\"margin-left:14.1750pt;text-indent:-14.2000pt;mso-char-indent-count:-1.3500;\ntext-autospace:ideograph-numeric;mso-pagination:none;mso-list:l0 level1 lfo1;\"><span style=\"font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; background-color: transparent; color: var(--color-foreground);\">3.</span><b style=\"font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; background-color: transparent; color: var(--color-foreground);\">内容运营：</b><span style=\"font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; background-color: transparent; color: var(--color-foreground);\">累计发布</span><b style=\"font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; background-color: transparent; color: var(--color-foreground);\">9</b><span style=\"font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; background-color: transparent; color: var(--color-foreground);\">篇原创推文，累计粉丝</span><b style=\"font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; background-color: transparent; color: var(--color-foreground);\">680+</b><span style=\"font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; background-color: transparent; color: var(--color-foreground);\">，总阅读</span><b style=\"font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; background-color: transparent; color: var(--color-foreground);\">4200+</b><span style=\"font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; background-color: transparent; color: var(--color-foreground);\">，阅读完成率超过</span><b style=\"font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; background-color: transparent; color: var(--color-foreground);\">50%</b><span style=\"font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; background-color: transparent; color: var(--color-foreground);\">。</span></p>",
+                      "bgColor": "",
+                      "bgOpacity": 100,
+                      "width": "100%",
+                      "fontSize": "12px",
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "id": "row-1781863989199",
+                  "cells": [
+                    {
+                      "id": "cell-1781863989199-p15v",
+                      "content": "<b><span>（二）厦门市民间信仰宫庙风貌管控导则</span></b>",
+                      "bgColor": "#f5f4f0",
+                      "bgOpacity": 100,
+                      "width": "68%",
+                      "fontSize": "14px",
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "id": "cell-1781863990856-4zzf",
+                      "content": "<span>2022 </span><span>—</span><span>&nbsp;2023</span>",
+                      "bgColor": "#f5f4f0",
+                      "bgOpacity": 100,
+                      "width": "17%",
+                      "fontSize": "14px",
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "id": "cell-1781863992504-z7dy",
+                      "content": "项目负责人",
+                      "bgColor": "#f5f4f0",
+                      "bgOpacity": 100,
+                      "width": "15%",
+                      "fontSize": "14px",
+                      "fontWeight": "bold"
+                    }
+                  ]
+                },
+                {
+                  "id": "row-1781863990391",
+                  "cells": [
+                    {
+                      "id": "cell-1781863990391-5r76",
+                      "content": "<p class=\"15\" style=\"margin-left:14.1750pt;text-indent:-14.2000pt;mso-char-indent-count:-1.3500;\ntext-autospace:ideograph-numeric;mso-pagination:none;mso-list:l0 level1 lfo1;\">1.<b>需求分析和项目架构：市政府单位</b><span>主导，服务于</span><b><span>社区百姓</span></b><span>，避免宫庙翻建中的风貌破坏；调研百座宫庙严谨论述政府单位的推断，</span><span>搭建</span><b><span>“理论论述→管控要求→实例展示”</span></b><span>内容严谨、流程正义、满足各方需求的</span><span>文本框架。</span><span><o:p></o:p></span></p><p class=\"15\" style=\"margin-left:14.1750pt;text-indent:-14.2000pt;mso-char-indent-count:-1.3500;\ntext-autospace:ideograph-numeric;mso-pagination:none;mso-list:l0 level1 lfo1;\">2.<b>竞品分析：</b><span>相较于</span><span>同类的村庄自建，宫庙需要更多弹性，制定以引导性为主的管控策略，提升社区接受度。</span></p><p class=\"15\" style=\"margin-left:14.1750pt;text-indent:-14.2000pt;mso-char-indent-count:-1.3500;\ntext-autospace:ideograph-numeric;mso-pagination:none;mso-list:l0 level1 lfo1;\"><span style=\"text-indent: -14.2pt; font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent); color: var(--color-foreground);\">3.</span><b style=\"text-indent: -14.2pt; font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent); color: var(--color-foreground);\">方法论复用：</b><span style=\"text-indent: -14.2pt; font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent); color: var(--color-foreground);\">提炼项目核心</span><span style=\"text-indent: -14.2pt; font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent); color: var(--color-foreground);\">，完成“多处社区50年以上建筑普查”、“市级文物记录普查”等项目。</span></p>",
+                      "bgColor": "",
+                      "bgOpacity": 100,
+                      "width": "100%",
+                      "fontSize": "12px",
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "id": "row-1781863995128",
+                  "cells": [
+                    {
+                      "id": "cell-1781863995128-qw26",
+                      "content": "<b><span>（三）闽台保生大帝宫庙建筑谱系的数字化建构 （学术研究）</span></b>",
+                      "bgColor": "#f5f4f0",
+                      "bgOpacity": 100,
+                      "width": "68%",
+                      "fontSize": "14px",
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "id": "cell-1781864216721-zcnz",
+                      "content": "<span>2024</span><span>至今</span>",
+                      "bgColor": "#f5f4f0",
+                      "bgOpacity": 100,
+                      "width": "17%",
+                      "fontSize": "14px",
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "id": "cell-1781864217305-6tq6",
+                      "content": "<b><span>主要负责人</span></b>",
+                      "bgColor": "#f5f4f0",
+                      "bgOpacity": 100,
+                      "width": "15%",
+                      "fontSize": "14px",
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "id": "row-1781863995832",
+                  "cells": [
+                    {
+                      "id": "cell-1781863995832-pe2g",
+                      "content": "<p class=\"15\" style=\"margin-left:14.2000pt;mso-para-margin-left:0.0000gd;text-indent:-14.2000pt;\nmso-char-indent-count:-1.3500;text-autospace:ideograph-numeric;mso-pagination:none;\nmso-list:l0 level1 lfo1;\">1.<b>项目架构与立项<span>：</span></b><span>主导课题，负责</span><b><span>整体</span></b><b><span>研究框架搭建</span></b><span>和</span><b><span>核心内容撰写</span></b><span>。项目</span><span>基金</span><span>在</span><b><span>2.3</span></b><b><span>万</span></b><span>份申报中脱颖而出（立项率约</span><b><span>5</span></b><b><span>.25</span></b><b><span>%</span></b><span>），首次申报即成功立项。</span><span><o:p></o:p></span></p><p class=\"15\" style=\"margin-left:14.2000pt;mso-para-margin-left:0.0000gd;text-indent:-14.2000pt;\nmso-char-indent-count:-1.3500;text-autospace:ideograph-numeric;mso-pagination:none;\nmso-list:l0 level1 lfo1;\">2.<b>团队协作与安排<span>：</span></b><span>统筹跨职能团队（含</span><b><span>2</span></b><span>位教授、</span><b><span>3</span></b><span>位高级工程师及多名研究员）推进项目落地；指导</span><b><span>4</span></b><span>名本科生开展延伸</span><b><span>子课题（</span></b><b><span>校级大创项目</span></b><b><span>）</span></b><span>，负责进度把控与方向指导。</span></p><p class=\"15\" style=\"margin-left:14.2000pt;mso-para-margin-left:0.0000gd;text-indent:-14.2000pt;\nmso-char-indent-count:-1.3500;text-autospace:ideograph-numeric;mso-pagination:none;\nmso-list:l0 level1 lfo1;\"><span style=\"font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent); color: var(--color-foreground);\">3.</span><b style=\"font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent); color: var(--color-foreground);\">成果产出</b><b style=\"font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent); color: var(--color-foreground);\">与</b><b style=\"font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent); color: var(--color-foreground);\">转化</b><span style=\"font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent); color: var(--color-foreground);\">：</span><b style=\"font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent); color: var(--color-foreground);\">主笔撰写</b><span style=\"font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent); color: var(--color-foreground);\">《厦门保生大帝宫庙建筑谱系构建》等学术论文</span><b style=\"font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent); color: var(--color-foreground);\">2</b><span style=\"font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent); color: var(--color-foreground);\">篇</span><span style=\"font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent); color: var(--color-foreground);\">。</span></p>",
+                      "bgColor": "",
+                      "bgOpacity": 100,
+                      "width": "100%",
+                      "fontSize": "12px",
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "m-1781864501322",
+            "moduleType": "table",
+            "label": "学生工作",
+            "table": {
+              "rows": [
+                {
+                  "id": "row-1781864501322",
+                  "cells": [
+                    {
+                      "id": "cell-1781864501322-1",
+                      "content": "<b><span>厦门大学建筑与土木工程学院组织部</span></b>",
+                      "bgColor": "#f5f4f0",
+                      "bgOpacity": 100,
+                      "width": "60%",
+                      "fontSize": "14px",
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "id": "cell-1781864501322-2",
+                      "content": "<span>202</span><span>0</span><span>.</span><span>11 </span><span>— 202</span><span>1</span><span>.</span><span>10</span>",
+                      "bgColor": "#f5f4f0",
+                      "bgOpacity": 100,
+                      "width": "25%",
+                      "fontSize": "14px",
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "id": "cell-1781864514913-3zod",
+                      "content": "<b><span>副部长</span></b>",
+                      "bgColor": "#f5f4f0",
+                      "bgOpacity": 100,
+                      "width": "15%",
+                      "fontSize": "14px",
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "id": "row-1781864547545",
+                  "cells": [
+                    {
+                      "id": "cell-1781864547545-nefc",
+                      "content": "<p class=\"15\" style=\"margin-left:14.1750pt;text-indent:-14.2000pt;mso-char-indent-count:-1.3500;\ntext-autospace:ideograph-numeric;mso-pagination:none;mso-list:l0 level1 lfo1;\">1.<b>独立负责</b><span>部门纳新宣讲，与会人数百人，</span><b><span>纳新</span></b><b><span>12</span></b><b><span>名</span></b><span>干事</span><span>；</span></p><p class=\"15\" style=\"margin-left:14.1750pt;text-indent:-14.2000pt;mso-char-indent-count:-1.3500;\ntext-autospace:ideograph-numeric;mso-pagination:none;mso-list:l0 level1 lfo1;\"><span style=\"text-indent: -14.2pt; font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; color: var(--color-foreground); background-color: rgb(255, 255, 255);\">2.</span><b style=\"text-indent: -14.2pt; font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; color: var(--color-foreground); background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent);\">策划并执行</b><span style=\"text-indent: -14.2pt; font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; color: var(--color-foreground); background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent);\">校运会开幕式队列方案，统筹</span><b style=\"text-indent: -14.2pt; font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; color: var(--color-foreground); background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent);\">90</b><b style=\"text-indent: -14.2pt; font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; color: var(--color-foreground); background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent);\">余名</b><span style=\"text-indent: -14.2pt; font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; color: var(--color-foreground); background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent);\">师生排练</span><span style=\"text-indent: -14.2pt; font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; color: var(--color-foreground); background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent);\">2</span><span style=\"text-indent: -14.2pt; font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; color: var(--color-foreground); background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent);\">周，完成</span><b style=\"text-indent: -14.2pt; font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; color: var(--color-foreground); background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent);\">流程规划、组织协调、现场落地</b><span style=\"text-indent: -14.2pt; font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; color: var(--color-foreground); background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent);\">；</span><span style=\"text-indent: -14.2pt; font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; color: var(--color-foreground); background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent);\">参与</span><span style=\"text-indent: -14.2pt; font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; color: var(--color-foreground); background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent);\">“一二·九定向越野”</span><b style=\"text-indent: -14.2pt; font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; color: var(--color-foreground); background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent);\">活动策划、预算控制、人员分工、现场执行</b><span style=\"text-indent: -14.2pt; font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; color: var(--color-foreground); background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent);\">，活动报名</span><b style=\"text-indent: -14.2pt; font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; color: var(--color-foreground); background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent);\">累计</b><b style=\"text-indent: -14.2pt; font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; color: var(--color-foreground); background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent);\">30</b><b style=\"text-indent: -14.2pt; font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; color: var(--color-foreground); background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent);\">余队、</b><b style=\"text-indent: -14.2pt; font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; color: var(--color-foreground); background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent);\">100</b><b style=\"text-indent: -14.2pt; font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; color: var(--color-foreground); background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent);\">余人</b><span style=\"text-indent: -14.2pt; font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; color: var(--color-foreground); background-color: color-mix(in oklab, var(--color-blue-50) 60%, transparent);\">，顺利全天落地。</span></p>",
+                      "bgColor": "",
+                      "bgOpacity": 100,
+                      "width": "100%",
+                      "fontSize": "12px",
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "id": "row-1781864570089",
+                  "cells": [
+                    {
+                      "id": "cell-1781864570089-fcl7",
+                      "content": "<b><span>厦门大学建筑与土木工程学院乡村营建社</span></b>",
+                      "bgColor": "#f5f4f0",
+                      "bgOpacity": 100,
+                      "width": "60%",
+                      "fontSize": "14px",
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "id": "cell-1781864571889-wnd3",
+                      "content": "<span>202</span><span>1</span><span>.</span><span>09 </span><span>— 202</span><span>2</span><span>.</span><span>06</span>",
+                      "bgColor": "#f5f4f0",
+                      "bgOpacity": 100,
+                      "width": "25%",
+                      "fontSize": "14px",
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "id": "cell-1781864572785-touq",
+                      "content": "<b><span>副社长</span></b>",
+                      "bgColor": "#f5f4f0",
+                      "bgOpacity": 100,
+                      "width": "15%",
+                      "fontSize": "14px",
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "id": "row-1781864570953",
+                  "cells": [
+                    {
+                      "id": "cell-1781864570953-ndjt",
+                      "content": "<p class=\"15\" style=\"margin-left:14.1750pt;text-indent:-14.1500pt;mso-char-indent-count:-1.3500;\ntext-autospace:ideograph-numeric;mso-pagination:none;mso-list:l0 level1 lfo1;\"><span>1.参与</span><span>“</span><span>第七届厦门大学乡村振兴论坛</span><span>“</span><span>筹办，负责</span><b><span>活动策划、</span></b><b><span>嘉宾</span></b><b><span>对接</span></b><b><span>、</span></b><b><span>流程执行、</span></b><b><span>推文制作</span></b><span>。</span><span><o:p></o:p></span></p><span>2.共同运营公众号“南强乡建社”</span><span>。</span>",
+                      "bgColor": "",
+                      "bgOpacity": 100,
+                      "width": "100%",
+                      "fontSize": "12px",
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "m-1781864641154",
+            "moduleType": "table",
+            "label": "技能荣誉",
+            "table": {
+              "rows": [
+                {
+                  "id": "row-1781864641154",
+                  "cells": [
+                    {
+                      "id": "cell-1781864641154-1",
+                      "content": "<b><span>语言能力</span></b>",
+                      "bgColor": "#f5f4f0",
+                      "bgOpacity": 100,
+                      "width": "15%",
+                      "fontSize": "14px",
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "id": "cell-1781864641154-2",
+                      "content": "<span>CET4</span><span>、</span><span>CET6</span><span>已通过。</span>",
+                      "bgColor": "",
+                      "bgOpacity": 100,
+                      "width": "85%",
+                      "fontSize": "12px",
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "id": "row-1781864642705",
+                  "cells": [
+                    {
+                      "id": "cell-1781864642705-3dee",
+                      "content": "专业技能",
+                      "bgColor": "#f5f4f0",
+                      "bgOpacity": 100,
+                      "width": "15%",
+                      "fontSize": "14px",
+                      "fontWeight": "bold"
+                    },
+                    {
+                      "id": "cell-1781864686929-sj6x",
+                      "content": "<span>1.</span><span>Origin</span><span>、</span><span>Excel</span><span>等</span><b><span>数据分析</span></b><span>软件。</span><div><span>2.PS</span><span>、</span><span>AI</span><span>、秀米等</span><b><span>绘图</span></b><span>软件。</span></div><div><span>3.CAD</span><span>、</span><span>RHINO</span><span>、</span><span>Grasshopper</span><span>可视化编程、</span><span>LUMION</span><span>等</span><b><span>制图建模</span></b><span>软件</span><span>。</span></div><div>4.Claude Code<b>氛围编程</b>软件。</div>",
+                      "bgColor": "",
+                      "bgOpacity": 100,
+                      "width": "85%",
+                      "fontSize": "12px",
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "id": "row-1781864643529",
+                  "cells": [
+                    {
+                      "id": "cell-1781864643529-3gxw",
+                      "content": "<b><span>个人荣誉</span></b>",
+                      "bgColor": "#f5f4f0",
+                      "bgOpacity": 100,
+                      "width": "15%",
+                      "fontSize": "14px",
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "id": "cell-1781864698377-1xcz",
+                      "content": "<p class=\"15\" style=\"margin-bottom:1.2000pt;margin-left:-3.6500pt;mso-para-margin-bottom:0.1000gd;\nmso-para-margin-left:-0.3500gd;text-indent:0.0000pt;mso-char-indent-count:0.0000;\ntab-stops:left blank 62.3500pt ;text-autospace:ideograph-numeric;mso-pagination:none;\">1.高等级院校第六届绿色建筑技能大赛B赛道<b>一等奖（国家级）</b>，负责<b>概念设计、性能模拟和方案建模</b>；\n2.第十六届“谷雨杯”入围奖（国家级）、海峡两岸联合评图交流展佳作奖（省级）、校级奖项若干；\n3.学业奖学金二等奖3次、一等奖2次。\n</p>",
+                      "bgColor": "",
+                      "bgOpacity": 100,
+                      "width": "85%",
+                      "fontSize": "12px",
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "m-1781864960338",
+            "moduleType": "table",
+            "label": "自我评价",
+            "table": {
+              "rows": [
+                {
+                  "id": "row-1781864960338",
+                  "cells": [
+                    {
+                      "id": "cell-1781864960338-1",
+                      "content": "<b>兴趣爱好</b>",
+                      "bgColor": "#f5f4f0",
+                      "bgOpacity": 100,
+                      "width": "15%",
+                      "fontSize": "14px",
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "id": "cell-1781864979610-yy74",
+                      "content": "1.文、艺、社、哲书籍阅读（1200小时、160本书）、电影、音乐，产出文艺评论。<div>2.有氧运动（跑步、游泳等）。</div>",
+                      "bgColor": "",
+                      "bgOpacity": 100,
+                      "width": "85%",
+                      "fontSize": "12px",
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "id": "row-1781864980273",
+                  "cells": [
+                    {
+                      "id": "cell-1781864980273-sato",
+                      "content": "<b>个人能力</b>",
+                      "bgColor": "#f5f4f0",
+                      "bgOpacity": 100,
+                      "width": "15%",
+                      "fontSize": "14px",
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "id": "cell-1781864981153-m7hu",
+                      "content": "1.<span>专业基础</span><span>扎实、综合能力较强</span><span>，能够迅速掌握新知识，具备良好</span><span>的调研及</span><span>逻辑分析能力；</span><br><span>2.对所处环境（生活、工作）细节有细致的好奇、察觉、反思和系统化梳理并表达的能力。</span>",
+                      "bgColor": "",
+                      "bgOpacity": 100,
+                      "width": "85%",
+                      "fontSize": "12px",
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "architecture",
+      "title": "建筑设计",
+      "enabled": true,
+      "order": 2,
+      "type": "projects",
+      "data": {
+        "projects": [
+          {
+            "id": "proj-1782400467866",
+            "number": "01",
+            "title": "突然之间 —— 校园咖啡厅设计",
+            "coverImage": "/uploads/1782400600811-y06f91.jpg",
+            "info": [
+              {
+                "id": "i-1782400467866-1",
+                "label": "地点",
+                "value": "福建省厦门市思明区厦门大学南强二南侧"
+              },
+              {
+                "id": "i-1782400497896",
+                "label": "年份",
+                "value": "2020"
+              },
+              {
+                "id": "i-1782400498536",
+                "label": "面积",
+                "value": "238㎡"
+              },
+              {
+                "id": "i-1782400499072",
+                "label": "类型",
+                "value": "公共建筑"
+              }
+            ],
+            "description": "<div><br></div><div>选址处于教学区和展示区两个职能较为纯粹的区域的交汇处，且临近两个校门；\n\n根据区域特点，可能的服务对象为学生、教职工及游客；\n\n建筑师意图设计一个以谦卑姿态融入环境、同时具备个性的建筑，来解答生活场景中以上三种人群可能出现的疑虑。<br></div>",
+            "drawings": [
+              {
+                "id": "d-1782468478381-0",
+                "image": "/uploads/1782468478376-zjdauq.png",
+                "title": "01",
+                "description": "DIAGRAM\n宏观的手在大地上掀起一角"
+              },
+              {
+                "id": "d-1782468478438-1",
+                "image": "/uploads/1782468478412-kavylx.jpg",
+                "title": "02",
+                "description": "第一印象"
+              },
+              {
+                "id": "d-1782468478460-2",
+                "image": "/uploads/1782468478456-xqzphn.jpg",
+                "title": "03",
+                "description": "区位分析"
+              },
+              {
+                "id": "d-1782468478478-3",
+                "image": "/uploads/1782468478474-l03s7c.jpg",
+                "title": "04",
+                "description": "设计分析"
+              },
+              {
+                "id": "d-1782468478514-4",
+                "image": "/uploads/1782468478505-km9rkw.jpg",
+                "title": "05",
+                "description": "总平面图 1:500 （A4）"
+              },
+              {
+                "id": "d-1782468478538-5",
+                "image": "/uploads/1782468478533-m78d6i.jpg",
+                "title": "06",
+                "description": "一层平面图 1:200 （A4）"
+              },
+              {
+                "id": "d-1782468478572-6",
+                "image": "/uploads/1782468478565-ih7t2q.jpg",
+                "title": "07",
+                "description": "东立面图 1:200（A4）\nA-A剖面图 1:200（A4）"
+              }
+            ]
+          },
+          {
+            "id": "proj-1782400606528",
+            "number": "02",
+            "title": "浮城 —— 社区活动中心设计",
+            "coverImage": "/uploads/1782400670850-98q8ig.jpg",
+            "info": [
+              {
+                "id": "i-1782400606528-1",
+                "label": "地点",
+                "value": "福建省厦门市思明区民族路西南侧"
+              },
+              {
+                "id": "i-1782400638552",
+                "label": "年份",
+                "value": "2021"
+              },
+              {
+                "id": "i-1782400639017",
+                "label": "面积",
+                "value": "4090㎡"
+              },
+              {
+                "id": "i-1782400639777",
+                "label": "类型",
+                "value": "公共建筑、文化建筑"
+              }
+            ],
+            "description": "\n一座悬浮在海边的社区活动中心。\n\n1.悬浮：这是一块身为停车场却过于空旷的消极空地，它反而用自身的”空无一物“将需要社区活动的人群们挤压至北侧的高架桥下。”高架桥下的生活“，作为一种意向引入设计，本设计利用悬挂结构，将地面最大程度地还于人群，利用”悬浮“让”悬浮“落地。\n\n2.活动：大范围的厦港城市肌理中，充分地分布着文化、娱乐功能的建筑，持续影响整个片区的调性。该建筑位于诸多文娱属性建筑的重心，像一个盒子，既干净又富有遐想空间，从下至上地容纳着从严肃到轻松、从私密到公共的各种日常文娱活动。\n\n3.CIRCLE：盒子的中心是一个偏心椭圆，二次打断均质的空间，为建筑内部营造丰富的体验感；同时保证自然光线的引入，使建筑实时充满活力。通向天空的屋顶层，是观海的最佳视野。\n\n4.礁石：采取简洁、粗粝的造型方式和立面材质，朴实地落在海的一隅，成为景的配角、人的配角、活动的配角，生活的配角。",
+            "drawings": [
+              {
+                "id": "d-1782472708307-0",
+                "image": "/uploads/1782472708301-0mousd.png",
+                "title": "01",
+                "description": "DIAGRAM\n海边的中空礁石"
+              },
+              {
+                "id": "d-1782472715012-0",
+                "image": "/uploads/1782472715005-lv7wbm.jpg",
+                "title": "02",
+                "description": "第一印象"
+              },
+              {
+                "id": "d-1782472715045-1",
+                "image": "/uploads/1782472715032-y04mtv.png",
+                "title": "03",
+                "description": "区位分析"
+              },
+              {
+                "id": "d-1782472715066-2",
+                "image": "/uploads/1782472715061-b27dhv.png",
+                "title": "04",
+                "description": "形体生成"
+              },
+              {
+                "id": "d-1782472715103-3",
+                "image": "/uploads/1782472715094-rp4ptx.png",
+                "title": "05",
+                "description": "总平面图 1:600（A4）"
+              },
+              {
+                "id": "d-1782472715132-4",
+                "image": "/uploads/1782472715120-cryqpg.png",
+                "title": "06",
+                "description": "一层平面图 1:350（A4）"
+              },
+              {
+                "id": "d-1782472715157-5",
+                "image": "/uploads/1782472715154-w1pvis.png",
+                "title": "07",
+                "description": "负一层平面图 1:350（A4）"
+              },
+              {
+                "id": "d-1782472715171-6",
+                "image": "/uploads/1782472715168-ko6gme.png",
+                "title": "08",
+                "description": "二层平面图 1:350（A4）"
+              },
+              {
+                "id": "d-1782472715203-7",
+                "image": "/uploads/1782472715199-s7f4ev.png",
+                "title": "09",
+                "description": "三层平面图 1:350（A4）"
+              },
+              {
+                "id": "d-1782472715219-8",
+                "image": "/uploads/1782472715215-vs6g2p.png",
+                "title": "10",
+                "description": "屋顶平面图 1:350（A4）"
+              },
+              {
+                "id": "d-1782472715238-9",
+                "image": "/uploads/1782472715232-rfjdvi.png",
+                "title": "11",
+                "description": "北立面图 1:350（A4）\n东立面图 1:350（A4）\n1-1剖面图 1:350（A4）"
+              },
+              {
+                "id": "d-1782472715258-10",
+                "image": "/uploads/1782472715251-d91llw.png",
+                "title": "12",
+                "description": "功能分区"
+              },
+              {
+                "id": "d-1782472715284-11",
+                "image": "/uploads/1782472715279-n83rln.png",
+                "title": "13",
+                "description": "悬挂结构设计"
+              },
+              {
+                "id": "d-1782472715300-12",
+                "image": "/uploads/1782472715296-igi1tb.jpg",
+                "title": "14",
+                "description": "中庭效果图1"
+              },
+              {
+                "id": "d-1782472715332-13",
+                "image": "/uploads/1782472715327-fgquvc.jpg",
+                "title": "15",
+                "description": "中庭效果图2"
+              }
+            ]
+          },
+          {
+            "id": "proj-1782400673912",
+            "number": "03",
+            "title": "“一主5th从” —— 建筑系馆设计",
+            "coverImage": "/uploads/1782400769115-1l9sze.jpg",
+            "info": [
+              {
+                "id": "i-1782400673912-1",
+                "label": "地点",
+                "value": "福建省厦门市思明区大学路182号海洋楼"
+              },
+              {
+                "id": "i-1782569919589",
+                "label": "年份",
+                "value": "2021"
+              },
+              {
+                "id": "i-1782569920060",
+                "label": "面积",
+                "value": "9660㎡"
+              },
+              {
+                "id": "i-1782569920460",
+                "label": "类型",
+                "value": "改造建筑、教学建筑"
+              }
+            ],
+            "description": "<div><br></div>项目区位位于厦门市思明区厦门大学海洋楼旧址处，为重建项目。设计围绕从场地中提取出的两个关键词进行展开：校园文脉的延续与观海。于是，设计的方向为：链接场地与校园的“前身”与“后身”，同时体现出对海亲近的情感。",
+            "drawings": [
+              {
+                "id": "d-1782569315657-0",
+                "image": "/uploads/1782569315652-wr3fx9.png",
+                "title": "01",
+                "description": "DIAGRAM\n“一主四从”的延续"
+              },
+              {
+                "id": "d-1782569324455-0",
+                "image": "/uploads/1782569324449-bolwtb.jpg",
+                "title": "02",
+                "description": "第一印象"
+              },
+              {
+                "id": "d-1782569324493-1",
+                "image": "/uploads/1782569324486-lfc8im.png",
+                "title": "03",
+                "description": "文脉分析"
+              },
+              {
+                "id": "d-1782569458850-0",
+                "image": "/uploads/1782569458837-ebzcw8.png",
+                "title": "04",
+                "description": "形体生成：总体生成"
+              },
+              {
+                "id": "d-1782569466099-0",
+                "image": "/uploads/1782569466094-5basoa.png",
+                "title": "05",
+                "description": "总平面图 1:4000（A4）"
+              },
+              {
+                "id": "d-1782569466121-1",
+                "image": "/uploads/1782569466112-yf57fm.png",
+                "title": "06",
+                "description": "形体生成：内向轴线"
+              },
+              {
+                "id": "d-1782569466150-2",
+                "image": "/uploads/1782569466142-4turin.png",
+                "title": "07",
+                "description": "负一、一层平面图 1:800（A4）"
+              },
+              {
+                "id": "d-1782569466187-3",
+                "image": "/uploads/1782569831988-ydqfiq.png",
+                "title": "08",
+                "description": "形体生成：外向连接"
+              },
+              {
+                "id": "d-1782569466209-4",
+                "image": "/uploads/1782569466202-xdgsjd.png",
+                "title": "09",
+                "description": "二、三、四、五层平面图 1:800（A4）"
+              },
+              {
+                "id": "d-1782569466232-5",
+                "image": "/uploads/1782569466219-nph6yt.png",
+                "title": "10",
+                "description": "西立面图 1:800（A4）\n东立面图 1:800（A4）\nA-A剖面图 1:800（A4）"
+              },
+              {
+                "id": "d-1782569466280-6",
+                "image": "/uploads/1782569466259-3scz72.png",
+                "title": "11",
+                "description": "爆炸轴测图：内向和外向"
+              },
+              {
+                "id": "d-1782569466357-11",
+                "image": "/uploads/1782569466354-g9v96v.jpg",
+                "title": "12",
+                "description": "渲染图：入口1"
+              },
+              {
+                "id": "d-1782569466326-9",
+                "image": "/uploads/1782569466323-sixm2m.jpg",
+                "title": "13",
+                "description": "渲染图：入口2"
+              },
+              {
+                "id": "d-1782569466343-10",
+                "image": "/uploads/1782569466338-pr4whp.jpg",
+                "title": "14",
+                "description": "渲染图：入口3"
+              },
+              {
+                "id": "d-1782569466312-8",
+                "image": "/uploads/1782569466308-5j0fqm.jpg",
+                "title": "15",
+                "description": "渲染图：轴线"
+              },
+              {
+                "id": "d-1782569466367-12",
+                "image": "/uploads/1782569466364-mvni1b.jpg",
+                "title": "16",
+                "description": "渲染图：广场视角1"
+              },
+              {
+                "id": "d-1782569466296-7",
+                "image": "/uploads/1782569466293-1wu2yv.jpg",
+                "title": "17",
+                "description": "渲染图：广场视角2"
+              },
+              {
+                "id": "d-1782569466389-13",
+                "image": "/uploads/1782569466385-wmoc3n.jpg",
+                "title": "18",
+                "description": "渲染图：花园"
+              },
+              {
+                "id": "d-1782569466403-14",
+                "image": "/uploads/1782569466400-zg7p7y.jpg",
+                "title": "19",
+                "description": "渲染图：屋顶广场"
+              },
+              {
+                "id": "d-1782569466420-15",
+                "image": "/uploads/1782569466416-h7x6n6.jpg",
+                "title": "20",
+                "description": "渲染图：城市连接"
+              }
+            ]
+          },
+          {
+            "id": "proj-1782400695449",
+            "number": "04",
+            "title": "山重水複 —— 新竹文化中心設計",
+            "coverImage": "/uploads/1782400761153-48aejh.jpg",
+            "info": [
+              {
+                "id": "i-1782400695449-1",
+                "label": "地点",
+                "value": "台湾省新竹市北区文化局演艺厅东南侧"
+              },
+              {
+                "id": "i-1782400721048",
+                "label": "年份",
+                "value": "2022"
+              },
+              {
+                "id": "i-1782400721296",
+                "label": "面积",
+                "value": "9900㎡"
+              },
+              {
+                "id": "i-1782400721728",
+                "label": "类型",
+                "value": "公共建筑、文化建筑"
+              },
+              {
+                "id": "i-1782400722952",
+                "label": "奖项",
+                "value": "海峽兩岸四校聯合教學評圖暨交流展佳作奖（地区级）"
+              }
+            ],
+            "description": "\n 根據對新竹市城市規劃、場地區位和設計任務的分析，設計者確立了設計的幾個思路：\n\n①延續城市绿化界面，建築造型體現绿色生態的特點；\n\n②不同的界面面嚮的建築性質不同，需有不同的應對策略：北面是新竹文化侷演藝廳，南面是城市騎樓，紅綫内東側有複雜的場地關係；\n\n③關於「異質空間」：繼上一點，因不同面嚮的建築性質不同，使建築勢必在不同的主要面嚮上擁有不盡相同的建築空間，即「異質空間」，那麽保證整體建築空間的獨立性與完整性則至關重要。\n\n④在良好的交通通達性的基礎上，强化建築的包容性與社交性；\n\n⑤根據設計師的知覺，建築合適以低調的姿態來創造活動的條件和烘托活動的氛圍。",
+            "drawings": [
+              {
+                "id": "d-1782474702602-0",
+                "image": "/uploads/1782474702596-x1p081.png",
+                "title": "01",
+                "description": "DIAGRAM\n新竹市的配角"
+              },
+              {
+                "id": "d-1782474710677-0",
+                "image": "/uploads/1782474710667-47gl5w.png",
+                "title": "02",
+                "description": "第一印象"
+              },
+              {
+                "id": "d-1782474710720-1",
+                "image": "/uploads/1782474710693-9c9yhh.png",
+                "title": "03",
+                "description": "场地分析"
+              },
+              {
+                "id": "d-1782474710745-2",
+                "image": "/uploads/1782474710741-64vsyn.png",
+                "title": "04",
+                "description": "形体生成"
+              },
+              {
+                "id": "d-1782474710764-3",
+                "image": "/uploads/1782474710758-ivp9q5.png",
+                "title": "05",
+                "description": "总平面图 1:800（A4）"
+              },
+              {
+                "id": "d-1782474710801-4",
+                "image": "/uploads/1782474710783-m82mxh.png",
+                "title": "06",
+                "description": "一层平面图 1:650（A4）"
+              },
+              {
+                "id": "d-1782474710820-5",
+                "image": "/uploads/1782474710813-9ax189.png",
+                "title": "07",
+                "description": "负一层平面图 1:650（A4）"
+              },
+              {
+                "id": "d-1782474710840-6",
+                "image": "/uploads/1782474710833-xe8pe0.png",
+                "title": "08",
+                "description": "二层平面图 1:650（A4）"
+              },
+              {
+                "id": "d-1782474710871-7",
+                "image": "/uploads/1782474710856-uhiaya.png",
+                "title": "09",
+                "description": "东立面图 1:400（A4）\n北立面图 1:400（A4）"
+              },
+              {
+                "id": "d-1782474710902-8",
+                "image": "/uploads/1782474710896-u525n2.png",
+                "title": "10",
+                "description": "西立面图 1:400（A4）\n南立面图 1:400（A4）"
+              },
+              {
+                "id": "d-1782474710917-9",
+                "image": "/uploads/1782474710911-acyltn.png",
+                "title": "11",
+                "description": "A-A剖面图 1:400（A4）\nB-B剖面图 1:400（A4）"
+              },
+              {
+                "id": "d-1782474710946-10",
+                "image": "/uploads/1782474710942-1fc8yn.png",
+                "title": "12",
+                "description": "空间序列"
+              },
+              {
+                "id": "d-1782474710962-11",
+                "image": "/uploads/1782474710957-hwga27.png",
+                "title": "13",
+                "description": "爆炸轴测图：功能分区"
+              },
+              {
+                "id": "d-1782474710979-12",
+                "image": "/uploads/1782474710974-xza106.jpg",
+                "title": "14",
+                "description": "柱廊—下沉体系"
+              },
+              {
+                "id": "d-1782474710996-13",
+                "image": "/uploads/1782474710990-mhykr7.jpg",
+                "title": "15",
+                "description": "柱廊—下沉体系"
+              },
+              {
+                "id": "d-1782474711027-14",
+                "image": "/uploads/1782474711010-adr0r3.jpg",
+                "title": "16",
+                "description": "入口悬挑"
+              },
+              {
+                "id": "d-1782474711054-15",
+                "image": "/uploads/1782474711050-xngauy.jpg",
+                "title": "17",
+                "description": "入口悬挑"
+              },
+              {
+                "id": "d-1782474711071-16",
+                "image": "/uploads/1782474711066-jpd5qd.jpg",
+                "title": "18",
+                "description": "退台—山丘体系"
+              },
+              {
+                "id": "d-1782474711083-17",
+                "image": "/uploads/1782474711078-2d2887.jpg",
+                "title": "19",
+                "description": "退台—山丘体系"
+              },
+              {
+                "id": "d-1782474711101-18",
+                "image": "/uploads/1782474711097-c98bbh.jpg",
+                "title": "20",
+                "description": "退台—山丘体系"
+              },
+              {
+                "id": "d-1782474711117-19",
+                "image": "/uploads/1782474711112-0a1n4z.jpg",
+                "title": "21",
+                "description": "退台—山丘体系"
+              },
+              {
+                "id": "d-1782474711125-20",
+                "image": "/uploads/1782474711123-9p8aoz.jpg",
+                "title": "22",
+                "description": "获奖证书"
+              }
+            ]
+          },
+          {
+            "id": "proj-1782400772272",
+            "number": "05",
+            "title": "曲江·旧忆 —— 旧市场酒店改造",
+            "coverImage": "/uploads/1782401344038-r66qt6.jpg",
+            "info": [
+              {
+                "id": "i-1782400772272-1",
+                "label": "地点",
+                "value": "福建省漳州市南靖县竹塔村曲江市场"
+              },
+              {
+                "id": "i-1782570081093",
+                "label": "年份",
+                "value": "2022"
+              },
+              {
+                "id": "i-1782570081580",
+                "label": "面积",
+                "value": "7600㎡"
+              },
+              {
+                "id": "i-1782570083781",
+                "label": "类型",
+                "value": "酒店建筑、改造建筑、乡村振兴"
+              }
+            ],
+            "description": "<div><br></div><div>曲江市场由华侨张煜开和张超宏叔侄两人捐资修建，<span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">为了纪念张氏先人张九龄而命名为“曲江市场”</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">，建于1919年农历十月。其</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">占地面积6500平方米，长方形结构，南北面修建了两座相向的二层楼37间，东南隅修建了一座二层楼14间，建有南、东门楼2座，其上均书写“曲江市场”四个大字。</span></div><div>\n如今，曲江市场已失却了昔日的繁华。</div><div><br></div><div>原始的建筑肌理中，由西至东蕴藏着3个由小到大的围合/半围合空间，因此设计思路以创造图底关系、连接内向空间为关键，使旧建筑秩序长出新的花朵。其中，环形土楼作为酒店体系的入口大堂，曲江市场旧址改造为客房，通过连廊、广场、梯田等层次丰富的灰空间将两者串联，与此同时创造出丰富的空间体验。</div>",
+            "drawings": [
+              {
+                "id": "d-1782570544722-0",
+                "image": "/uploads/1782570544715-5h25lm.png",
+                "title": "01",
+                "description": "DIAGRAM\n联通旧体系"
+              },
+              {
+                "id": "d-1782570078859-0",
+                "image": "/uploads/1782570078836-fk6ov8.png",
+                "title": "02",
+                "description": "第一印象"
+              },
+              {
+                "id": "d-1782570078870-1",
+                "image": "/uploads/1782570078867-taylfs.png",
+                "title": "03",
+                "description": "改造前：总图  1:1500（A4）"
+              },
+              {
+                "id": "d-1782570078891-2",
+                "image": "/uploads/1782570078889-u6f6xo.png",
+                "title": "04",
+                "description": "改造前：曲江市场平面图  1:900（A4）"
+              },
+              {
+                "id": "d-1782570078906-3",
+                "image": "/uploads/1782570078904-qrmjax.png",
+                "title": "05",
+                "description": "改造前：单元平面图  1:120（A4）"
+              },
+              {
+                "id": "d-1782570078930-4",
+                "image": "/uploads/1782570078923-d0z7cx.png",
+                "title": "06",
+                "description": "改造前：实景图"
+              },
+              {
+                "id": "d-1782570078963-5",
+                "image": "/uploads/1782570078949-hw6bxl.png",
+                "title": "07",
+                "description": "场地分析"
+              },
+              {
+                "id": "d-1782570078980-6",
+                "image": "/uploads/1782570078975-qlc539.png",
+                "title": "08",
+                "description": "形体生成"
+              },
+              {
+                "id": "d-1782570079006-7",
+                "image": "/uploads/1782570079000-s9jkdp.png",
+                "title": "09",
+                "description": "总平面图 1:1500（A4）"
+              },
+              {
+                "id": "d-1782570079037-8",
+                "image": "/uploads/1782570079020-dzb74d.png",
+                "title": "10",
+                "description": "一层平面图 1:900（A4）"
+              },
+              {
+                "id": "d-1782570079064-9",
+                "image": "/uploads/1782570079060-9ks2ym.png",
+                "title": "11",
+                "description": "负一层平面图 1:900（A4）"
+              },
+              {
+                "id": "d-1782570079081-10",
+                "image": "/uploads/1782570079076-bvg9pi.png",
+                "title": "12",
+                "description": "二层平面图 1:900（A4）"
+              },
+              {
+                "id": "d-1782570079094-11",
+                "image": "/uploads/1782570079091-k6nqwj.png",
+                "title": "13",
+                "description": "三层平面图 1:900（A4）"
+              },
+              {
+                "id": "d-1782570079115-12",
+                "image": "/uploads/1782570079110-sjp386.png",
+                "title": "14",
+                "description": "西立面图 1:900（A4）\n东立面图 1:900（A4）"
+              },
+              {
+                "id": "d-1782570079144-13",
+                "image": "/uploads/1782570079140-bobpmb.png",
+                "title": "15",
+                "description": "A-A剖面图 1:900（A4）\nB-B剖面图 1:900（A4）"
+              },
+              {
+                "id": "d-1782570079165-14",
+                "image": "/uploads/1782570079156-k549jl.png",
+                "title": "16",
+                "description": "客房安排生成"
+              },
+              {
+                "id": "d-1782570079194-15",
+                "image": "/uploads/1782570079179-hx2e1f.png",
+                "title": "17",
+                "description": "客房平面图"
+              },
+              {
+                "id": "d-1782570079224-16",
+                "image": "/uploads/1782570079219-f0d7sh.png",
+                "title": "18",
+                "description": "爆炸轴测图：流线&功能"
+              },
+              {
+                "id": "d-1782570079310-17",
+                "image": "/uploads/1782570079305-8nl3vw.jpg",
+                "title": "19",
+                "description": "效果图：大堂入口1"
+              },
+              {
+                "id": "d-1782570079328-18",
+                "image": "/uploads/1782570079324-e146zf.jpg",
+                "title": "20",
+                "description": "效果图：大堂入口2"
+              },
+              {
+                "id": "d-1782570079362-19",
+                "image": "/uploads/1782570079356-j08kc8.jpg",
+                "title": "21",
+                "description": "效果图：连廊1"
+              },
+              {
+                "id": "d-1782570079399-20",
+                "image": "/uploads/1782570079391-3ndn8k.jpg",
+                "title": "22",
+                "description": "效果图：梯田1"
+              },
+              {
+                "id": "d-1782570079425-21",
+                "image": "/uploads/1782570079420-zfptfi.jpg",
+                "title": "23",
+                "description": "效果图：梯田2"
+              },
+              {
+                "id": "d-1782570079459-22",
+                "image": "/uploads/1782570079455-b1l4wd.jpg",
+                "title": "24",
+                "description": "效果图：梯田3"
+              },
+              {
+                "id": "d-1782570079484-23",
+                "image": "/uploads/1782570079480-b8xfah.jpg",
+                "title": "25",
+                "description": "效果图：连廊2"
+              },
+              {
+                "id": "d-1782570079521-24",
+                "image": "/uploads/1782570079517-hc9dsm.jpg",
+                "title": "26",
+                "description": "效果图：连廊3"
+              },
+              {
+                "id": "d-1782570079550-25",
+                "image": "/uploads/1782570079544-jz9mip.jpg",
+                "title": "27",
+                "description": "效果图：连廊4"
+              },
+              {
+                "id": "d-1782570079673-29",
+                "image": "/uploads/1782570079669-kgl0o1.jpg",
+                "title": "28",
+                "description": "效果图：下沉广场1"
+              },
+              {
+                "id": "d-1782570079693-30",
+                "image": "/uploads/1782570079688-ah66xa.jpg",
+                "title": "29",
+                "description": "效果图：下沉广场2"
+              },
+              {
+                "id": "d-1782570079736-32",
+                "image": "/uploads/1782570079732-di106f.jpg",
+                "title": "30",
+                "description": "效果图：书屋"
+              },
+              {
+                "id": "d-1782570079586-26",
+                "image": "/uploads/1782570079582-xybwbg.jpg",
+                "title": "31",
+                "description": "效果图：滨水1"
+              },
+              {
+                "id": "d-1782570079613-27",
+                "image": "/uploads/1782570079608-moy2iz.jpg",
+                "title": "32",
+                "description": "效果图：滨水2"
+              }
+            ]
+          },
+          {
+            "id": "proj-1782401354199",
+            "number": "06",
+            "title": "城市山谷 —— 厦工片区宿舍规划与设计",
+            "coverImage": "/uploads/1782401372278-uf2hwp.jpg",
+            "info": [
+              {
+                "id": "i-1782401354199-1",
+                "label": "地点",
+                "value": "福建省厦门市思明区深田社区"
+              },
+              {
+                "id": "i-1782401376960",
+                "label": "年份",
+                "value": "2023"
+              },
+              {
+                "id": "i-1782401377343",
+                "label": "面积",
+                "value": "22000㎡"
+              },
+              {
+                "id": "i-1782401377728",
+                "label": "类型",
+                "value": "城市更新、住宅建筑"
+              }
+            ],
+            "description": "\n设计选地位于厦门市思明区深田社区内厦工宿舍片区，红线范围约2.2公顷，片区内总建筑面积约2.5万平方米。其中，公房建筑面积0.6万平方米；私房建筑面积1.5万平方米；无产权建筑面积0.4万平方米。\n\n前期的实地调研中发现，场地与社区和外界交通联系能力弱、城市视线通廊友好性差、场地内部空间有解放和强化利用的潜力等问题，确定设计概念为：“打造一个内向、独立、功能体系完整的城市城市山谷。”使厦工宿舍片区成为一个“麻雀虽小，五脏俱全”的居住综合体。\n\n因此，设计方法确定为：形态完整地反映“山谷”的意向，精心设计围合的社区庭院，补足缺乏的社区功能，最后在细节和深度上继续深化。",
+            "drawings": [
+              {
+                "id": "d-1782572646237-0",
+                "image": "/uploads/1782572646233-zelpng.png",
+                "title": "01",
+                "description": "DIAGRAM\n内向的乌托邦",
+                "category": "图纸"
+              },
+              {
+                "id": "d-1782572792473-0",
+                "image": "/uploads/1782572792466-uh56gp.png",
+                "title": "02",
+                "description": "第一印象",
+                "category": "图纸"
+              },
+              {
+                "id": "d-1782572792504-1",
+                "image": "/uploads/1782572792498-kijdhv.png",
+                "title": "03",
+                "description": "场地分析",
+                "category": "图纸"
+              },
+              {
+                "id": "d-1782572792527-2",
+                "image": "/uploads/1782572792520-b27r37.png",
+                "title": "04",
+                "description": "形体生成",
+                "category": "图纸"
+              },
+              {
+                "id": "d-1782572792568-3",
+                "image": "/uploads/1782572792561-kfku9z.png",
+                "title": "05",
+                "description": "总平面图 1:850（A4）",
+                "category": "图纸"
+              },
+              {
+                "id": "d-1782572792595-4",
+                "image": "/uploads/1782572792582-de6zc5.png",
+                "title": "06",
+                "description": "北立面图 1:500（A4）",
+                "category": "图纸"
+              },
+              {
+                "id": "d-1782572792614-5",
+                "image": "/uploads/1782572792609-16bp0s.png",
+                "title": "07",
+                "description": "西立面图 1:500（A4）",
+                "category": "图纸"
+              },
+              {
+                "id": "d-1782572792645-6",
+                "image": "/uploads/1782572792639-stiy3p.png",
+                "title": "08",
+                "description": "A-A剖面图 1:500（A4）",
+                "category": "图纸"
+              },
+              {
+                "id": "d-1782572792671-7",
+                "image": "/uploads/1782572792658-kfa18t.png",
+                "title": "09",
+                "description": "爆炸轴测图",
+                "category": "图纸"
+              },
+              {
+                "id": "d-1782572792692-8",
+                "image": "/uploads/1782572792686-1yphm9.png",
+                "title": "10",
+                "description": "地面路径示意",
+                "category": "图纸"
+              },
+              {
+                "id": "d-1782572792709-9",
+                "image": "/uploads/1782572792704-56lxik.png",
+                "title": "11",
+                "description": "消防通道",
+                "category": "图纸"
+              },
+              {
+                "id": "d-1782572792732-10",
+                "image": "/uploads/1782572792727-ltndjm.png",
+                "title": "12",
+                "description": "DIAGRAM\n房型1：“互”型错层",
+                "category": "房型1：“互”型错层"
+              },
+              {
+                "id": "d-1782572792745-11",
+                "image": "/uploads/1782572792741-dw02u8.png",
+                "title": "13",
+                "description": "房型1：平面图 1：150（A4）",
+                "category": "房型1：“互”型错层"
+              },
+              {
+                "id": "d-1782572792760-12",
+                "image": "/uploads/1782572792755-mmlksj.png",
+                "title": "14",
+                "description": "房型1：平面图 1：150（A4）",
+                "category": "房型1：“互”型错层"
+              },
+              {
+                "id": "d-1782572792783-13",
+                "image": "/uploads/1782572792771-6qn6gq.png",
+                "title": "15",
+                "description": "房型1：分析图",
+                "category": "房型1：“互”型错层"
+              },
+              {
+                "id": "d-1782572792812-14",
+                "image": "/uploads/1782572792807-jcgb13.png",
+                "title": "16",
+                "description": "房型2：平面图 1：150（A4）",
+                "category": "房型2：常规户型"
+              },
+              {
+                "id": "d-1782572792830-15",
+                "image": "/uploads/1782572792825-ic09kv.png",
+                "title": "17",
+                "description": "房型2：分析图",
+                "category": "房型2：常规户型"
+              },
+              {
+                "id": "d-1782572792848-16",
+                "image": "/uploads/1782572792840-l9u1yq.jpg",
+                "title": "18",
+                "description": "效果图：院落1",
+                "category": "效果图"
+              },
+              {
+                "id": "d-1782572792877-17",
+                "image": "/uploads/1782572792872-hzqcow.jpg",
+                "title": "19",
+                "description": "效果图：院落2",
+                "category": "效果图"
+              },
+              {
+                "id": "d-1782572792898-18",
+                "image": "/uploads/1782572792891-wlsg6a.jpg",
+                "title": "20",
+                "description": "效果图：院落3",
+                "category": "效果图"
+              },
+              {
+                "id": "d-1782572792927-19",
+                "image": "/uploads/1782572792921-sfqxi7.jpg",
+                "title": "21",
+                "description": "效果图：院落4",
+                "category": "效果图"
+              },
+              {
+                "id": "d-1782572792941-20",
+                "image": "/uploads/1782572792936-0j20ag.jpg",
+                "title": "22",
+                "description": "效果图：阳台1",
+                "category": "效果图"
+              },
+              {
+                "id": "d-1782572792973-21",
+                "image": "/uploads/1782572792966-lygf3k.jpg",
+                "title": "23",
+                "description": "效果图：阳台2",
+                "category": "效果图"
+              },
+              {
+                "id": "d-1782572793006-22",
+                "image": "/uploads/1782572792996-3mr085.jpg",
+                "title": "24",
+                "description": "效果图：屋顶与太阳能光伏板",
+                "category": "效果图"
+              },
+              {
+                "id": "d-1782572793041-23",
+                "image": "/uploads/1782572793026-fqh47s.jpg",
+                "title": "25",
+                "description": "效果图：白鹤山连接处",
+                "category": "效果图"
+              }
+            ]
+          },
+          {
+            "id": "proj-1782401424063",
+            "number": "07",
+            "title": "绿蕴·深田 —— 深田社区城市更新设计",
+            "coverImage": "/uploads/1782401444527-3o8xww.jpg",
+            "info": [
+              {
+                "id": "i-1782401424063-1",
+                "label": "地点",
+                "value": "福建省厦门市思明区深田社区"
+              },
+              {
+                "id": "i-1782469106728",
+                "label": "年份",
+                "value": "2022"
+              },
+              {
+                "id": "i-1782469124927",
+                "label": "面积",
+                "value": "37.4公顷"
+              },
+              {
+                "id": "i-1782469137215",
+                "label": "类型",
+                "value": "城市更新"
+              },
+              {
+                "id": "i-1782469157919",
+                "label": "成员",
+                "value": "蔡宇翔、李珂祎"
+              }
+            ],
+            "description": "<div><br></div>“一环、一点、一带”构成了社区绿地系统的骨架。即社区绿地系统的第一级系统。通过宏观演绎，寻找到深田绿色手段的骨架，为深田的城市更新营造打下“底色”。<div>\n（1）从社区外的视角看，“一环、一点、一带”将中山公园与万石山风景名胜区象征性地连接在一起，深田社区随着绿地系统的融入而成为城市景观带的一部分——\nⅠ 从城市区位而言，“一环、一点、一带”完成了“筼筜湖景观带—中山公园—深田社区—万石山风景名胜区”的城市绿色通廊。\nⅡ “一环、一点、一带”既将深田社区纳入城市，又将深田社区纳入万石山风景名胜区，从宏观政策的角度出发，完\n成了明确社区定位，将社区自身与未来15年的上位规划进行深度融合。</div><div>\n（2）从社区内部的视角看，“一环、一点、一带”创造了弥合南北部断裂的机会——\nⅠ “一环、一点、一带”从南北侧之间的分界附近打开社区，将城市活力借由“一带”注入社区，再经由“一带”向社区内部创造均匀辐射的条件。从服务功能的服务范围而言，达成了南北区的相对平衡。\nⅡ “一环、一点、一带”创造了改造社区慢行、车行条件的契机。\nⅢ “一环、一点、一带”创造了改善社区内涝的契机。<br></div>",
+            "drawings": [
+              {
+                "id": "d-1782632031818-0",
+                "image": "/uploads/1782632031796-2hry4z.png",
+                "title": "01",
+                "description": "封面",
+                "category": "封面及目录"
+              },
+              {
+                "id": "d-1782632031854-1",
+                "image": "/uploads/1782632031844-2wzmxj.png",
+                "title": "02",
+                "description": "目录",
+                "category": "封面及目录"
+              },
+              {
+                "id": "d-1782632031909-2",
+                "image": "/uploads/1782632031885-vc6n2k.png",
+                "title": "03",
+                "description": "01 基本背景\n（1）区位分析",
+                "category": "01 基本背景"
+              },
+              {
+                "id": "d-1782632031938-3",
+                "image": "/uploads/1782632031931-2lhb7n.png",
+                "title": "04",
+                "description": "01 基本背景\n（2）上位规划解读",
+                "category": "01 基本背景"
+              },
+              {
+                "id": "d-1782632031977-4",
+                "image": "/uploads/1782632031961-vx761y.png",
+                "title": "05",
+                "description": "01 基本背景\n（2）上位规划解读\n02 基地现状\n（1）历史沿革",
+                "category": "01 基本背景"
+              },
+              {
+                "id": "d-1782632032027-5",
+                "image": "/uploads/1782632032018-hq7gli.png",
+                "title": "06",
+                "description": "02 基地现状\n（2）社区自然条件\n（3）社区结构",
+                "category": "02 基地现状"
+              },
+              {
+                "id": "d-1782632032059-6",
+                "image": "/uploads/1782632032047-cguo95.png",
+                "title": "07",
+                "description": "02 基地现状\n（3）社区结构\n（4）社区交通",
+                "category": "02 基地现状"
+              },
+              {
+                "id": "d-1782632032085-7",
+                "image": "/uploads/1782632032079-4pg93j.png",
+                "title": "08",
+                "description": "02 基地现状\n（4）社区交通",
+                "category": "02 基地现状"
+              },
+              {
+                "id": "d-1782632032116-8",
+                "image": "/uploads/1782632032105-i44dpd.png",
+                "title": "09",
+                "description": "02 基地现状\n（5）社区建筑特征",
+                "category": "02 基地现状"
+              },
+              {
+                "id": "d-1782632032154-9",
+                "image": "/uploads/1782632032148-cs4lgz.png",
+                "title": "10",
+                "description": "03 策略与规划\n（1）主题提出：SWOT分析",
+                "category": "03 规划与策略"
+              },
+              {
+                "id": "d-1782632032183-10",
+                "image": "/uploads/1782632032172-hl2pbb.png",
+                "title": "11",
+                "description": "03 策略与规划\n（1）主题提出：SWOT分析",
+                "category": "03 规划与策略"
+              },
+              {
+                "id": "d-1782632032211-11",
+                "image": "/uploads/1782632032201-3qkacd.png",
+                "title": "12",
+                "description": "03 策略与规划\n（2）主题演绎",
+                "category": "03 规划与策略"
+              },
+              {
+                "id": "d-1782632032240-12",
+                "image": "/uploads/1782632032231-f9z8xf.png",
+                "title": "13",
+                "description": "03 策略与规划\n（2）主题演绎",
+                "category": "03 规划与策略"
+              },
+              {
+                "id": "d-1782632032283-13",
+                "image": "/uploads/1782632032266-ihoa0y.png",
+                "title": "14",
+                "description": "03 策略与规划\n（3）规划结构",
+                "category": "03 规划与策略"
+              },
+              {
+                "id": "d-1782632032339-14",
+                "image": "/uploads/1782632032328-pv2j8o.png",
+                "title": "15",
+                "description": "03 策略与规划\n（4）规划策略",
+                "category": "03 规划与策略"
+              },
+              {
+                "id": "d-1782632032368-15",
+                "image": "/uploads/1782632032359-co9ntr.png",
+                "title": "16",
+                "description": "03 策略与规划\n（5）总结",
+                "category": "03 规划与策略"
+              },
+              {
+                "id": "d-1782632032398-16",
+                "image": "/uploads/1782632032387-9lx8z8.png",
+                "title": "17",
+                "description": "04 设计呈现\n社区效果图",
+                "category": "04 整体设计"
+              },
+              {
+                "id": "d-1782632032426-17",
+                "image": "/uploads/1782632032416-w8oslv.png",
+                "title": "18",
+                "description": "04 设计呈现\n（1）总体设计",
+                "category": "04 整体设计"
+              },
+              {
+                "id": "d-1782632032455-18",
+                "image": "/uploads/1782632032446-1t81vi.png",
+                "title": "19",
+                "description": "04 设计呈现\n（2）功能分析\n（3）车行交通分析\n（4）慢行交通分析",
+                "category": "04 整体设计"
+              },
+              {
+                "id": "d-1782632032477-19",
+                "image": "/uploads/1782632032470-wf41m2.png",
+                "title": "20",
+                "description": "04 设计呈现\n（5）规划结构、社区天际线",
+                "category": "04 整体设计"
+              },
+              {
+                "id": "d-1782632032504-20",
+                "image": "/uploads/1782632032495-lf2u73.png",
+                "title": "21",
+                "description": "04 设计呈现\n（6）节点改造策略",
+                "category": "04 整体设计"
+              },
+              {
+                "id": "d-1782632032537-21",
+                "image": "/uploads/1782632032529-fvt1fq.png",
+                "title": "22",
+                "description": "05 节点设计\n（1）百家村改造\n问题分析",
+                "category": "05 节点设计（1）百家村改造"
+              },
+              {
+                "id": "d-1782632032570-22",
+                "image": "/uploads/1782632032557-helsfw.png",
+                "title": "23",
+                "description": "05 节点设计\n（1）百家村改造\n形体生成",
+                "category": "05 节点设计（1）百家村改造"
+              },
+              {
+                "id": "d-1782632032626-23",
+                "image": "/uploads/1782632032617-9n6mju.png",
+                "title": "24",
+                "description": "05 节点设计\n（1）百家村改造\n规划结构",
+                "category": "05 节点设计（1）百家村改造"
+              },
+              {
+                "id": "d-1782632032648-24",
+                "image": "/uploads/1782632032642-8x1c9p.png",
+                "title": "25",
+                "description": "05 节点设计\n（2）古建广场更新\n问题分析",
+                "category": "05 节点设计（2）古建广场更新"
+              },
+              {
+                "id": "d-1782632032667-25",
+                "image": "/uploads/1782632032660-rtrrgr.png",
+                "title": "26",
+                "description": "05 节点设计\n（2）古建广场更新\n形体生成",
+                "category": "05 节点设计（2）古建广场更新"
+              },
+              {
+                "id": "d-1782632032694-26",
+                "image": "/uploads/1782632032685-kwd4mz.png",
+                "title": "27",
+                "description": "05 节点设计\n（2）古建广场更新\n规划结构",
+                "category": "05 节点设计（2）古建广场更新"
+              },
+              {
+                "id": "d-1782632032721-27",
+                "image": "/uploads/1782632032712-sdthjh.png",
+                "title": "28",
+                "description": "05 节点设计\n（3）南侧住区集群更新\n问题分析",
+                "category": "05 节点设计（3）南侧住区集群更新"
+              },
+              {
+                "id": "d-1782632032743-28",
+                "image": "/uploads/1782632032736-7f2voi.png",
+                "title": "29",
+                "description": "05 节点设计\n（3）南侧住区集群更新\n服务展览中心：形体生成",
+                "category": "05 节点设计（3）南侧住区集群更新"
+              },
+              {
+                "id": "d-1782632032768-29",
+                "image": "/uploads/1782632032761-tq7ssv.png",
+                "title": "30",
+                "description": "05 节点设计\n（3）南侧住区集群更新\n服务展览中心：节点效果图",
+                "category": "05 节点设计（3）南侧住区集群更新"
+              },
+              {
+                "id": "d-1782632032791-30",
+                "image": "/uploads/1782632032784-t4nkoh.png",
+                "title": "31",
+                "description": "05 节点设计\n（3）南侧住区集群更新\n整体：形体生成",
+                "category": "05 节点设计（3）南侧住区集群更新"
+              },
+              {
+                "id": "d-1782632032814-31",
+                "image": "/uploads/1782632032809-mcswaz.png",
+                "title": "32",
+                "description": "05 节点设计\n（3）南侧住区集群更新\n整体：规划结构",
+                "category": "05 节点设计（3）南侧住区集群更新"
+              },
+              {
+                "id": "d-1782632032847-32",
+                "image": "/uploads/1782632032830-toi4ri.png",
+                "title": "33",
+                "description": "05 节点设计\n（3）南侧住区集群更新\n整体：公共性光谱",
+                "category": "05 节点设计（3）南侧住区集群更新"
+              },
+              {
+                "id": "d-1782632032901-33",
+                "image": "/uploads/1782632032891-u3j6yb.png",
+                "title": "34",
+                "description": "05 节点设计\n（3）南侧住区集群更新\n整体：节点效果图",
+                "category": "05 节点设计（3）南侧住区集群更新"
+              },
+              {
+                "id": "d-1782632032926-34",
+                "image": "/uploads/1782632032918-hx4pi2.png",
+                "title": "35",
+                "description": "05 节点设计\n（4）内涝治理设想\n问题分析",
+                "category": "05 节点设计（4）内涝治理设想"
+              },
+              {
+                "id": "d-1782632032945-35",
+                "image": "/uploads/1782632032936-dfar8s.png",
+                "title": "36",
+                "description": "05 节点设计\n（4）内涝治理设想\n治理方法",
+                "category": "05 节点设计（4）内涝治理设想"
+              },
+              {
+                "id": "d-1782632032976-36",
+                "image": "/uploads/1782632032963-us43ra.png",
+                "title": "37",
+                "description": "05 节点设计\n（5）电信大楼：活动中心改造\n问题分析",
+                "category": "05 节点设计（5）电信大楼：活动中心改造"
+              },
+              {
+                "id": "d-1782632033009-37",
+                "image": "/uploads/1782632032998-iebej6.png",
+                "title": "38",
+                "description": "05 节点设计\n（5）电信大楼：活动中心改造\n形体生成",
+                "category": "05 节点设计（5）电信大楼：活动中心改造"
+              },
+              {
+                "id": "d-1782632033061-38",
+                "image": "/uploads/1782632033051-d0d98b.png",
+                "title": "39",
+                "description": "05 节点设计\n（5）电信大楼：活动中心改造\n节点效果图",
+                "category": "05 节点设计（5）电信大楼：活动中心改造"
+              },
+              {
+                "id": "d-1782632033101-39",
+                "image": "/uploads/1782632033090-ttz29l.png",
+                "title": "40",
+                "description": "05 节点设计\n（6）北侧居住区设计\n问题分析",
+                "category": "05 节点设计（6）北侧居住区设计"
+              },
+              {
+                "id": "d-1782632033130-40",
+                "image": "/uploads/1782632033121-3yyavh.png",
+                "title": "41",
+                "description": "05 节点设计\n（6）北侧居住区设计\n形体生成",
+                "category": "05 节点设计（6）北侧居住区设计"
+              },
+              {
+                "id": "d-1782632033167-41",
+                "image": "/uploads/1782632033149-iwb2vw.png",
+                "title": "42",
+                "description": "05 节点设计\n（6）北侧居住区设计\n节点效果图",
+                "category": "05 节点设计（6）北侧居住区设计"
+              },
+              {
+                "id": "d-1782632033228-42",
+                "image": "/uploads/1782632033214-62z10m.png",
+                "title": "43",
+                "description": "05 节点设计\n（7）综合体设计\n形体生成",
+                "category": "05 节点设计（7）综合体设计"
+              },
+              {
+                "id": "d-1782632033254-43",
+                "image": "/uploads/1782632033247-qndq61.png",
+                "title": "44",
+                "description": "05 节点设计\n（7）综合体设计\n节点效果图",
+                "category": "05 节点设计（7）综合体设计"
+              }
+            ]
+          },
+          {
+            "id": "proj-1782401425015",
+            "number": "08",
+            "title": "每一园 —— 福州马尾船政历史文化地块的保护与设计[单体三]",
+            "coverImage": "/uploads/1782464861569-dt3q45.jpg",
+            "info": [
+              {
+                "id": "i-1782401425015-1",
+                "label": "地点",
+                "value": "福建省福州市马尾区港口路83号船政文化景区"
+              },
+              {
+                "id": "i-1782401483447",
+                "label": "年份",
+                "value": "2024"
+              },
+              {
+                "id": "i-1782401483799",
+                "label": "面积",
+                "value": "改造前建筑面积：2734.64㎡；改造后使用面积：2580.05㎡"
+              },
+              {
+                "id": "i-1782401484279",
+                "label": "类型",
+                "value": "公共建筑、工业遗产改造"
+              },
+              {
+                "id": "i-1782401484567",
+                "label": "成员",
+                "value": "胡冠宇、蔡宇翔、江丽兰"
+              }
+            ],
+            "description": "\n设计项目地块位于福建省福州市马尾区船政历史文化园区内中部狭长的地块上。对片区上位规划、历史沿革、现有条件进行分析后，设计引入“峰终效应（PER）”理论，期望以地块内的设计织补园区业态功能、增强空间形式语言，引发整个园区形成峰终体系（PER Garden），改变单调、枯燥园区现状。\n设计将地块内分为三大建筑组团：①礼堂-钟楼-消防站组团、②办公楼组团、③船厂车间组团，三大组团对应“峰园”、“织园”和“终园”，每一园的设计侧重点与功能定位各有差异、相互补充、共同作用，形成逆转整个园区的完整峰终体系。\n\n建筑单体设计三 | 船厂车间活化改造设计：\n处设计地块南部，顺应游客的主要来向设定为终园。\n设计策略为：形式上，打破现状片区内工业遗产普遍保守的改造格局，给予人强烈的第一印象；功能上，弥补园区娱乐休闲的空白，作为片区的娱乐中心与开放乐园。",
+            "drawings": [
+              {
+                "id": "d-1782632345389-0",
+                "image": "/uploads/1782632345384-7jfq3e.png",
+                "title": "01",
+                "description": "封面",
+                "category": "封面及目录"
+              },
+              {
+                "id": "d-1782632345416-1",
+                "image": "/uploads/1782632345408-hyz9i2.png",
+                "title": "02",
+                "description": "目录",
+                "category": "封面及目录"
+              },
+              {
+                "id": "d-1782632345454-2",
+                "image": "/uploads/1782632345437-zo1n2i.png",
+                "title": "03",
+                "description": "1.课题概况\n1.1 项目地块概况",
+                "category": "1.课题概况"
+              },
+              {
+                "id": "d-1782632345507-3",
+                "image": "/uploads/1782632345486-qnlxqk.png",
+                "title": "04",
+                "description": "1.课题概况\n1.1 项目地块概况",
+                "category": "1.课题概况"
+              },
+              {
+                "id": "d-1782632345537-4",
+                "image": "/uploads/1782632345530-qet3tj.png",
+                "title": "05",
+                "description": "1.课题概况\n1.1 项目地块概况",
+                "category": "1.课题概况"
+              },
+              {
+                "id": "d-1782632345567-5",
+                "image": "/uploads/1782632345556-vi31pb.png",
+                "title": "06",
+                "description": "1.课题概况\n1.1 项目地块概况",
+                "category": "1.课题概况"
+              },
+              {
+                "id": "d-1782632345622-6",
+                "image": "/uploads/1782632345600-7sn1pd.png",
+                "title": "07",
+                "description": "1.课题概况\n1.2 设计内容概况",
+                "category": "1.课题概况"
+              },
+              {
+                "id": "d-1782632345654-7",
+                "image": "/uploads/1782632345642-4ov5ml.png",
+                "title": "08",
+                "description": "2.地块分析\n2.1 上位规划",
+                "category": "2.地块分析"
+              },
+              {
+                "id": "d-1782632345713-8",
+                "image": "/uploads/1782632345686-fon0n7.png",
+                "title": "09",
+                "description": "2.地块分析\n2.2 历史沿革",
+                "category": "2.地块分析"
+              },
+              {
+                "id": "d-1782632345747-9",
+                "image": "/uploads/1782632345737-3egmo9.png",
+                "title": "10",
+                "description": "2.地块分析\n2.3 区位分析",
+                "category": "2.地块分析"
+              },
+              {
+                "id": "d-1782632345782-10",
+                "image": "/uploads/1782632345769-dm1bio.png",
+                "title": "11",
+                "description": "2.地块分析\n2.3 区位分析",
+                "category": "2.地块分析"
+              },
+              {
+                "id": "d-1782632345816-11",
+                "image": "/uploads/1782632345802-32f0vv.png",
+                "title": "12",
+                "description": "2.地块分析\n2.4 场地交通",
+                "category": "2.地块分析"
+              },
+              {
+                "id": "d-1782632345852-12",
+                "image": "/uploads/1782632345839-od1mdc.png",
+                "title": "13",
+                "description": "2.地块分析\n2.5 古树名木与活动场地",
+                "category": "2.地块分析"
+              },
+              {
+                "id": "d-1782632345889-13",
+                "image": "/uploads/1782632345879-tonld9.png",
+                "title": "14",
+                "description": "2.地块分析\n2.6 建筑肌理与建筑功能",
+                "category": "2.地块分析"
+              },
+              {
+                "id": "d-1782632345935-14",
+                "image": "/uploads/1782632345929-7jam0n.png",
+                "title": "15",
+                "description": "2.地块分析\n2.7 分析汇总",
+                "category": "2.地块分析"
+              },
+              {
+                "id": "d-1782632345958-15",
+                "image": "/uploads/1782632345951-qo9fpo.png",
+                "title": "16",
+                "description": "3.设计思路\n3.1 设计目标",
+                "category": "3.设计思路"
+              },
+              {
+                "id": "d-1782632345990-16",
+                "image": "/uploads/1782632345977-h2yu3r.png",
+                "title": "17",
+                "description": "3.设计思路\n3.1 设计目标",
+                "category": "3.设计思路"
+              },
+              {
+                "id": "d-1782632346030-17",
+                "image": "/uploads/1782632346013-nhxce4.png",
+                "title": "18",
+                "description": "3.设计思路\n3.2 概念引入",
+                "category": "3.设计思路"
+              },
+              {
+                "id": "d-1782632346081-18",
+                "image": "/uploads/1782632346069-5n6ke1.png",
+                "title": "19",
+                "description": "3.设计思路\n3.3 概念嫁接",
+                "category": "3.设计思路"
+              },
+              {
+                "id": "d-1782632346106-19",
+                "image": "/uploads/1782632346097-bi9bia.png",
+                "title": "20",
+                "description": "3.设计思路\n3.4 设计定位",
+                "category": "3.设计思路"
+              },
+              {
+                "id": "d-1782632346133-20",
+                "image": "/uploads/1782632346124-pz0aa1.png",
+                "title": "21",
+                "description": "4.总体设计\n4.1 整体鸟瞰",
+                "category": "4.总体设计"
+              },
+              {
+                "id": "d-1782632346156-21",
+                "image": "/uploads/1782632346149-w076es.png",
+                "title": "22",
+                "description": "4.总体设计\n4.2 总平面图",
+                "category": "4.总体设计"
+              },
+              {
+                "id": "d-1782632346215-22",
+                "image": "/uploads/1782632346190-04kt5w.png",
+                "title": "23",
+                "description": "4.总体设计\n4.3 规划结构",
+                "category": "4.总体设计"
+              },
+              {
+                "id": "d-1782632346243-23",
+                "image": "/uploads/1782632346232-snfear.png",
+                "title": "24",
+                "description": "4.总体设计\n4.4 设计策略",
+                "category": "4.总体设计"
+              },
+              {
+                "id": "d-1782632346276-24",
+                "image": "/uploads/1782632346263-i1o2hw.png",
+                "title": "25",
+                "description": "5.单体设计（设计一）\n5.1 礼堂-钟楼-消防站组团设计",
+                "category": "5.单体设计（设计一、二）"
+              },
+              {
+                "id": "d-1782632346317-25",
+                "image": "/uploads/1782632346306-zl33jj.png",
+                "title": "26",
+                "description": "5.单体设计（设计一）\n5.1 礼堂-钟楼-消防站组团设计",
+                "category": "5.单体设计（设计一、二）"
+              },
+              {
+                "id": "d-1782632346353-26",
+                "image": "/uploads/1782632346342-d4cyab.png",
+                "title": "27",
+                "description": "5.单体设计（设计二）\n5.2 办公楼组团改造设计",
+                "category": "5.单体设计（设计一、二）"
+              },
+              {
+                "id": "d-1782632346408-27",
+                "image": "/uploads/1782632346398-27ggok.png",
+                "title": "28",
+                "description": "5.单体设计（设计二）\n5.2 办公楼组团改造设计",
+                "category": "5.单体设计（设计一、二）"
+              },
+              {
+                "id": "d-1782632346432-28",
+                "image": "/uploads/1782632346425-q1xfo6.png",
+                "title": "29",
+                "description": "5.单体设计（设计三）\n5.3 船厂车间组团设计",
+                "category": "5.单体设计（设计三）"
+              },
+              {
+                "id": "d-1782632346457-29",
+                "image": "/uploads/1782632346448-0n3c5o.png",
+                "title": "30",
+                "description": "5.单体设计（设计三）\n5.3 船厂车间组团设计",
+                "category": "5.单体设计（设计三）"
+              },
+              {
+                "id": "d-1782632346484-30",
+                "image": "/uploads/1782632346472-v4uzvb.png",
+                "title": "31",
+                "description": "5.单体设计（设计三）\n5.3.1 设计定位",
+                "category": "5.单体设计（设计三）"
+              },
+              {
+                "id": "d-1782632346537-31",
+                "image": "/uploads/1782632346512-5pfm9z.png",
+                "title": "32",
+                "description": "5.单体设计（设计三）\n5.3.2 建筑现状",
+                "category": "5.单体设计（设计三）"
+              },
+              {
+                "id": "d-1782632346564-32",
+                "image": "/uploads/1782632346555-30p0gh.png",
+                "title": "33",
+                "description": "5.单体设计（设计三）\n5.3.2 建筑现状",
+                "category": "5.单体设计（设计三）"
+              },
+              {
+                "id": "d-1782632346590-33",
+                "image": "/uploads/1782632346581-rx4kma.png",
+                "title": "34",
+                "description": "5.单体设计（设计三）\n5.3.3 设计策略",
+                "category": "5.单体设计（设计三）"
+              },
+              {
+                "id": "d-1782632346613-34",
+                "image": "/uploads/1782632346603-txv0y3.png",
+                "title": "35",
+                "description": "5.单体设计（设计三）\n5.3.3 设计策略",
+                "category": "5.单体设计（设计三）"
+              },
+              {
+                "id": "d-1782632346663-35",
+                "image": "/uploads/1782632346639-zrpy2y.png",
+                "title": "36",
+                "description": "5.单体设计（设计三）\n5.3.3 设计策略",
+                "category": "5.单体设计（设计三）"
+              },
+              {
+                "id": "d-1782632346687-36",
+                "image": "/uploads/1782632346680-7yoxoi.png",
+                "title": "37",
+                "description": "5.单体设计（设计三）\n5.3.4 设计分析",
+                "category": "5.单体设计（设计三）"
+              },
+              {
+                "id": "d-1782632346715-37",
+                "image": "/uploads/1782632346706-xw1xmn.png",
+                "title": "38",
+                "description": "5.单体设计（设计三）\n5.3.4 设计分析",
+                "category": "5.单体设计（设计三）"
+              },
+              {
+                "id": "d-1782632346739-38",
+                "image": "/uploads/1782632346730-bp5y5f.png",
+                "title": "39",
+                "description": "5.单体设计（设计三）\n5.3.4 设计呈现",
+                "category": "5.单体设计（设计三）"
+              },
+              {
+                "id": "d-1782632346776-39",
+                "image": "/uploads/1782632346756-1hat8q.png",
+                "title": "40",
+                "description": "5.单体设计（设计三）\n5.3.4 设计呈现",
+                "category": "5.单体设计（设计三）"
+              },
+              {
+                "id": "d-1782632346830-40",
+                "image": "/uploads/1782632346807-eax2pu.png",
+                "title": "41",
+                "description": "5.单体设计（设计三）\n5.3.4 设计呈现",
+                "category": "5.单体设计（设计三）"
+              },
+              {
+                "id": "d-1782632346859-41",
+                "image": "/uploads/1782632346850-28nnz3.png",
+                "title": "42",
+                "description": "5.单体设计（设计三）\n5.3.4 设计呈现",
+                "category": "5.单体设计（设计三）"
+              },
+              {
+                "id": "d-1782632346890-42",
+                "image": "/uploads/1782632346881-zqbayh.png",
+                "title": "43",
+                "description": "5.单体设计（设计三）\n5.3.5 技术图纸",
+                "category": "5.单体设计（设计三）"
+              },
+              {
+                "id": "d-1782632346917-43",
+                "image": "/uploads/1782632346907-efxcb4.png",
+                "title": "44",
+                "description": "5.单体设计（设计三）\n5.3.5 技术图纸",
+                "category": "5.单体设计（设计三）"
+              },
+              {
+                "id": "d-1782632346951-44",
+                "image": "/uploads/1782632346940-hdup7c.png",
+                "title": "45",
+                "description": "5.单体设计（设计三）\n5.3.5 技术图纸",
+                "category": "5.单体设计（设计三）"
+              },
+              {
+                "id": "d-1782632346996-45",
+                "image": "/uploads/1782632346988-xk3spn.png",
+                "title": "46",
+                "description": "5.单体设计（设计三）\n5.3.5 技术图纸",
+                "category": "5.单体设计（设计三）"
+              },
+              {
+                "id": "d-1782632347017-46",
+                "image": "/uploads/1782632347008-0xqi88.png",
+                "title": "47",
+                "description": "5.单体设计（设计三）\n5.3.5 技术图纸",
+                "category": "5.单体设计（设计三）"
+              },
+              {
+                "id": "d-1782632347034-47",
+                "image": "/uploads/1782632347029-kxd1wq.png",
+                "title": "48",
+                "description": "5.单体设计（设计三）\n5.3.5 技术图纸",
+                "category": "5.单体设计（设计三）"
+              },
+              {
+                "id": "d-1782632347064-48",
+                "image": "/uploads/1782632347055-93yf5b.png",
+                "title": "49",
+                "description": "5.单体设计（设计三）\n5.3.5 技术图纸",
+                "category": "5.单体设计（设计三）"
+              },
+              {
+                "id": "d-1782632347096-49",
+                "image": "/uploads/1782632347079-w3g06m.png",
+                "title": "50",
+                "description": "6.空间叙事\n6.1 建筑漫游",
+                "category": "6.空间叙事"
+              },
+              {
+                "id": "d-1782632347146-50",
+                "image": "/uploads/1782632347136-11ya04.png",
+                "title": "51",
+                "description": "6.空间叙事\n6.1 建筑漫游",
+                "category": "6.空间叙事"
+              },
+              {
+                "id": "d-1782632347171-51",
+                "image": "/uploads/1782632347163-5j142y.png",
+                "title": "52",
+                "description": "6.空间叙事\n6.1 建筑漫游",
+                "category": "6.空间叙事"
+              },
+              {
+                "id": "d-1782632347199-52",
+                "image": "/uploads/1782632347190-owubuq.png",
+                "title": "53",
+                "description": "6.空间叙事\n6.1 建筑漫游",
+                "category": "6.空间叙事"
+              }
+            ]
+          },
+          {
+            "id": "proj-1782401426023",
+            "number": "09",
+            "title": "循光而行，拔节生长 —— 基于可变表皮的零碳之路",
+            "coverImage": "/uploads/1782464871767-8z30st.jpg",
+            "info": [
+              {
+                "id": "i-1782401426023-1",
+                "label": "地点",
+                "value": "广东省广州市增城区广州公用事业高级技工学校（上传中）"
+              },
+              {
+                "id": "i-1782401652640",
+                "label": "年份",
+                "value": "2024"
+              },
+              {
+                "id": "i-1782401656031",
+                "label": "面积",
+                "value": "3150㎡"
+              },
+              {
+                "id": "i-1782401656575",
+                "label": "类型",
+                "value": "公共建筑、改造建筑"
+              },
+              {
+                "id": "i-1782401657231",
+                "label": "成员",
+                "value": "巩芳芳、刘伟强、宗子昌、蔡宇翔"
+              },
+              {
+                "id": "i-1782401659103",
+                "label": "获奖",
+                "value": "高等级院校第六届绿色建筑技能大赛 B 赛道一等奖（国家级）"
+              }
+            ],
+            "description": "\n本项目本项目坐落于广东省广州市，作为一座公共建筑，旨在充分利用当地丰富的太阳能和风能资源，通过引入可再生能源系统，实现高效能源利用，减轻环境负担，推动绿色建筑发展。\n\n本项目的核心目标在于实现高效、可持续的能源利用。通过光伏系统，我们最大限度地利用阳光资源，而引入车网互动式储能系统，则将电动车视为储能装置，实现了全天候运行。这一创新方案不仅在高峰时段实现了智能调配，还有效降低了压缩机容量，带来了初始投资的明显降低。为了进一步提升能源利用效率，我们应用了冰蓄冷系统，通过智能调控实现了节能减排。同时，雨水回收系统将雨水进行有效收集和再利用，体现了对资源的最大程度利用。\n\n本项目以岭南建筑绿色建筑发展为文脉，以\"循光而行拔节生长”为主题，通过模拟植物的生长方式，实现了建筑与自然的和谐融合。项目秉承“被动优先，主动优化”的原则，致力于探索零碳实现的途径。特别是引入车网互动式储能系统，为能源供应增添新的智能维度，使整个系统更具可持续性。最终，本项目立志成为一个智慧零碳的校园设计，为可持续发展贡献力量。",
+            "drawings": [
+              {
+                "id": "d-1782572857685-0",
+                "image": "/uploads/1782632721273-kir72d.jpg",
+                "title": "01",
+                "description": "图版1"
+              },
+              {
+                "id": "d-1782572857788-1",
+                "image": "/uploads/1782632724771-8quu24.jpg",
+                "title": "02",
+                "description": "图版2"
+              },
+              {
+                "id": "d-1782572857817-2",
+                "image": "/uploads/1782572857810-dvbyw3.jpg",
+                "title": "03",
+                "description": "获奖证书"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "zine",
+      "title": "ZINE",
+      "enabled": true,
+      "order": 3,
+      "type": "projects",
+      "data": {
+        "projects": [
+          {
+            "id": "zine-1",
+            "number": "01",
+            "title": "影像建筑 —— 《一一》[杨德昌]",
+            "coverImage": "/uploads/1781874169441-jh9qgk.jpg",
+            "info": [],
+            "description": "<p class=\"ds-markdown-paragraph\" style=\"margin-top: 16px; margin-bottom: 16px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: 16px; white-space-collapse: collapse;\"><span class=\"\"></span></p><span style=\"font-size: 28px;\"><p class=\"ds-markdown-paragraph\" style=\"margin-top: 16px; margin-bottom: 16px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: 16px; white-space-collapse: collapse;\"><span class=\"\"></span></p></span><span style=\"font-size: 28px;\"><span style=\"font-size: 28px;\"><p class=\"ds-markdown-paragraph\" style=\"margin-top: 16px; margin-bottom: 16px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: 16px; white-space-collapse: collapse;\"><span class=\"\">&nbsp; &nbsp; &nbsp; &nbsp;电影《一一》的平行多线叙事为蓝本，选取其中五条主要人物线索——洋洋、婷婷、阿弟、NJ与婆婆，分别对应人生的五个阶段：童年、少年、青年、中年与老年。通过对人物命运、情感冲突与成长节点的提炼，设计者将电影的时间性与情感层次“转译”为建筑的空间语言。</span></p><p class=\"ds-markdown-paragraph\" style=\"margin-top: 16px; margin-bottom: 16px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: 16px; white-space-collapse: collapse;\"><span class=\"\"><br></span></p></span><span style=\"font-size: 28px;\"><p class=\"ds-markdown-paragraph\" style=\"margin-top: 16px; margin-bottom: 16px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: 16px; white-space-collapse: collapse;\"><span class=\"\"><span style=\"background-color: var(--color-white);\">&nbsp; &nbsp; &nbsp; &nbsp;</span>设计提出“拉花式”与“缠绕式”两种结构模型，形成</span>多条路径交织、方向趋近线性<span class=\"\">的平面布局。建筑设5个入口，分别对应5个人生阶段，观众在建筑中可选择不同路径，但整体体验仍导向一种渐进式、光谱式的生命历程感知。</span></p></span><span style=\"font-size: 28px;\"><p class=\"ds-markdown-paragraph\" style=\"margin-top: 16px; margin-bottom: 16px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: 16px; white-space-collapse: collapse;\"><span class=\"\"><span style=\"background-color: var(--color-white);\">&nbsp; &nbsp; &nbsp; &nbsp;</span>该设计不仅强调电影叙事的空间化转译，同样注重建筑自身的独立性与完整性——即便观者对电影内容一无所知，也能在空间中感受到节奏、对照与成长的氛围张力。作品融合音乐、文学、电影与建筑语言，探索了一种跨媒介的叙事性建筑表达方式。</span></p></span></span><span style=\"font-size: 28px;\"><p class=\"ds-markdown-paragraph\" style=\"margin-top: 16px; margin-bottom: 16px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: 16px; white-space-collapse: collapse;\"><span class=\"\"></span></p></span><p class=\"ds-markdown-paragraph\" style=\"margin-top: 16px; margin-bottom: 16px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: 16px; white-space-collapse: collapse;\"><span class=\"\"></span></p>",
+            "drawings": [
+              {
+                "id": "d-1782634523220-0",
+                "image": "/uploads/1782634523213-fb6rok.png",
+                "title": "01",
+                "description": ""
+              },
+              {
+                "id": "d-1782634523368-1",
+                "image": "/uploads/1782634523358-uz56f9.png",
+                "title": "02",
+                "description": ""
+              },
+              {
+                "id": "d-1782634523425-2",
+                "image": "/uploads/1782634523414-sxv40q.png",
+                "title": "03",
+                "description": ""
+              },
+              {
+                "id": "d-1782634523464-3",
+                "image": "/uploads/1782634523455-vdaeh3.png",
+                "title": "04",
+                "description": ""
+              },
+              {
+                "id": "d-1782634523506-4",
+                "image": "/uploads/1782634523498-zg37ok.png",
+                "title": "05",
+                "description": ""
+              },
+              {
+                "id": "d-1782634523557-5",
+                "image": "/uploads/1782634523548-jsi20r.png",
+                "title": "06",
+                "description": ""
+              },
+              {
+                "id": "d-1782634523616-6",
+                "image": "/uploads/1782634523607-1q5hy4.png",
+                "title": "07",
+                "description": ""
+              },
+              {
+                "id": "d-1782634523659-7",
+                "image": "/uploads/1782634523653-tkjpxz.png",
+                "title": "08",
+                "description": ""
+              },
+              {
+                "id": "d-1782634523704-8",
+                "image": "/uploads/1782634523691-wsmoei.png",
+                "title": "09",
+                "description": ""
+              },
+              {
+                "id": "d-1782634523751-9",
+                "image": "/uploads/1782634523741-21pq6y.png",
+                "title": "10",
+                "description": ""
+              },
+              {
+                "id": "d-1782634523801-10",
+                "image": "/uploads/1782634523790-z129r7.png",
+                "title": "11",
+                "description": ""
+              },
+              {
+                "id": "d-1782634523857-11",
+                "image": "/uploads/1782634523847-77butm.png",
+                "title": "12",
+                "description": ""
+              },
+              {
+                "id": "d-1782634523899-12",
+                "image": "/uploads/1782634523891-p5qmn1.png",
+                "title": "13",
+                "description": ""
+              },
+              {
+                "id": "d-1782634523943-13",
+                "image": "/uploads/1782634523934-ax1gvm.png",
+                "title": "14",
+                "description": ""
+              },
+              {
+                "id": "d-1782634524001-14",
+                "image": "/uploads/1782634523990-pj2dvt.png",
+                "title": "15",
+                "description": ""
+              },
+              {
+                "id": "d-1782634524055-15",
+                "image": "/uploads/1782634524047-v0c6m1.png",
+                "title": "16",
+                "description": ""
+              },
+              {
+                "id": "d-1782634524075-16",
+                "image": "/uploads/1782634524068-ecysoc.png",
+                "title": "17",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "id": "proj-1781866888764",
+            "number": "02",
+            "title": "台灣游記 零壹[高雄,臺南]",
+            "coverImage": "/uploads/1781876788907-8gjjz5.jpg",
+            "info": [],
+            "description": "<div>（壹）高雄</div><div>高雄古名「打狗<span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">」</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">（Takau），是當地平埔族馬卡道族語抵禦外敵的「竹林」之意，漢人依其音譯爲「打狗」，日據時期依「Takau」的日語諧音改寫爲漢字「高雄」。</span></div><div><div>高雄的發展從17世紀說起：荷蘭人來時「打狗」已是馬卡道小漁村；明鄭時期設萬年縣，開始高雄臨海軍事要地之屯墾開發，因而左營、鳳山一帶歷史悠久；清朝則在興隆莊（左營古名）興建鳳山縣城；清時已有具規模的打狗港，而後經日本人大力整建高雄港爲現代化港口，哈瑪星（日文意爲濱線）與鹽埕區一帶是當時發展最快最繁榮的地方。1945年後外省移民，高雄開始有眷村聚落，集中在左營、鳳山與岡山。</div><div><br></div><div>（贰）臺南</div><div>說到臺灣就一定不會漏掉臺南，因爲臺南是臺灣發展的起點、臺灣歷史的開端。臺灣近400年的歷史中，臺南作爲首府就有263年。最初「臺灣」這個名字，所指稱的原來也就是臺南。\n臺南是座有歷史的城市，包容着異國色彩和脈絡的歷史；絕對有自己的特色，卻有着寬容的溫和。可見的事物如此，無形的人情也是如此。\n在臺南長大的導演李安，曾說臺南的古雅氣質塑造了他的個性：「我對世界的眼光，是在臺南養成的。我的紀律，道德標準，行爲準則，基本上是臺南給我的。」臺南這座城市的確有這種底蘊。\n\n——《這就是台灣，這才是台灣》廖信忠<br></div></div>",
+            "drawings": [
+              {
+                "id": "d-1782635961530-0",
+                "image": "/uploads/1782635961520-7t8zf5.png",
+                "title": "01",
+                "description": ""
+              },
+              {
+                "id": "d-1782635961564-1",
+                "image": "/uploads/1782635961552-pr3i57.png",
+                "title": "02",
+                "description": ""
+              },
+              {
+                "id": "d-1782635961602-2",
+                "image": "/uploads/1782635961596-mwn9mv.png",
+                "title": "03",
+                "description": ""
+              },
+              {
+                "id": "d-1782635961634-3",
+                "image": "/uploads/1782635961619-ktkskw.png",
+                "title": "04",
+                "description": ""
+              },
+              {
+                "id": "d-1782635961678-4",
+                "image": "/uploads/1782635961668-he3yv3.png",
+                "title": "05",
+                "description": ""
+              },
+              {
+                "id": "d-1782635961710-5",
+                "image": "/uploads/1782635961697-shdd1k.png",
+                "title": "06",
+                "description": ""
+              },
+              {
+                "id": "d-1782635961754-6",
+                "image": "/uploads/1782635961746-2ptobi.png",
+                "title": "07",
+                "description": ""
+              },
+              {
+                "id": "d-1782635961781-7",
+                "image": "/uploads/1782635961770-4lzef0.png",
+                "title": "08",
+                "description": ""
+              },
+              {
+                "id": "d-1782635961827-8",
+                "image": "/uploads/1782635961805-mrrjl6.png",
+                "title": "09",
+                "description": ""
+              },
+              {
+                "id": "d-1782635961853-9",
+                "image": "/uploads/1782635961845-v064t6.png",
+                "title": "10",
+                "description": ""
+              },
+              {
+                "id": "d-1782635961876-10",
+                "image": "/uploads/1782635961868-l9o1zd.png",
+                "title": "11",
+                "description": ""
+              },
+              {
+                "id": "d-1782635961898-11",
+                "image": "/uploads/1782635961890-oxx4id.png",
+                "title": "12",
+                "description": ""
+              },
+              {
+                "id": "d-1782635961926-12",
+                "image": "/uploads/1782635961915-157ua9.png",
+                "title": "13",
+                "description": ""
+              },
+              {
+                "id": "d-1782635961971-13",
+                "image": "/uploads/1782635961948-04ymzx.png",
+                "title": "14",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "id": "proj-1781867555542",
+            "number": "03",
+            "title": "台灣游記 零貳[臺中,臺北]",
+            "coverImage": "/uploads/1781879494006-z2b7l4.jpg",
+            "info": [],
+            "description": "<div>（叁）臺中</div><div>因爲位居於臺灣的中心位置，不但是苗栗以南、雲林以北，600萬人口的經濟中心，南來北往綿密的交通網，也讓臺中成爲交通上重要的樞紐。臺中的地理位置在臺風頻繁的臺灣佔有很大優勢，因爲在中央山脈阻擋下，臺中總是能安然度過颱風的侵襲，這或許也是臺中人樂天的原因之一吧！\n臺中市近幾年來，在七期蓋了許多豪宅，臺中港也進了許多名車，讓人有一種臺中經濟起飛的感覺。可是在臺灣一提到“治安差的都市”，又讓人第一個聯想到臺中。一提到臺中，又直接讓人聯想到“情色”，只能說，白天的臺中，就跟溫馴的小綿羊一樣，可是一到晚上，臺中就變成了一匹“脫繮的野馬”那樣奔放。<br></div><div><br></div><div>（肆）臺北</div>那些符號性的玩意兒，影響了好幾代人對臺北的印象，每次看到關於臺北的文章，筆調很自然很莫名地就變得文藝地、充滿小清新式地淡淡憂愁起來，彷彿臺北就應該是那樣的。並且，來到臺北後，就會去尋找一些符合心中臺北印象的臺北符號。\n但作爲商業繁榮的大都市，臺北節奏很快，臺北的規矩是每個人自顧自地做好自己的事，儘量不要去麻煩別人，別人最好也不要來麻煩我，中南部的人還會覺得臺北人有些冷漠。\n此外，因爲是盆地地形又處於北邊，臺北夏天很熱，冬天又比較冷，這又給人陰晴不定、難以捉摸的感覺，所以臺北人不像南部人那麼熱情。\n\n——《這就是台灣，這才是台灣》廖信忠",
+            "drawings": [
+              {
+                "id": "d-1782635981234-0",
+                "image": "/uploads/1782635981192-vqln5k.png",
+                "title": "01",
+                "description": ""
+              },
+              {
+                "id": "d-1782635981369-1",
+                "image": "/uploads/1782635981327-5umemo.png",
+                "title": "02",
+                "description": ""
+              },
+              {
+                "id": "d-1782635981479-2",
+                "image": "/uploads/1782635981434-dnwt68.png",
+                "title": "03",
+                "description": ""
+              },
+              {
+                "id": "d-1782635981562-3",
+                "image": "/uploads/1782635981533-ytfuxs.png",
+                "title": "04",
+                "description": ""
+              },
+              {
+                "id": "d-1782635981650-4",
+                "image": "/uploads/1782635981621-4675uw.png",
+                "title": "05",
+                "description": ""
+              },
+              {
+                "id": "d-1782635981781-5",
+                "image": "/uploads/1782635981732-clm2ed.png",
+                "title": "06",
+                "description": ""
+              },
+              {
+                "id": "d-1782635981870-6",
+                "image": "/uploads/1782635981835-qw21mr.png",
+                "title": "07",
+                "description": ""
+              },
+              {
+                "id": "d-1782635981989-7",
+                "image": "/uploads/1782635981938-tg3vic.png",
+                "title": "08",
+                "description": ""
+              },
+              {
+                "id": "d-1782635982078-8",
+                "image": "/uploads/1782635982047-rgtuxz.png",
+                "title": "09",
+                "description": ""
+              },
+              {
+                "id": "d-1782635982175-9",
+                "image": "/uploads/1782635982148-erwtt1.png",
+                "title": "10",
+                "description": ""
+              },
+              {
+                "id": "d-1782635982315-10",
+                "image": "/uploads/1782635982267-cm41ku.png",
+                "title": "11",
+                "description": ""
+              },
+              {
+                "id": "d-1782635982434-11",
+                "image": "/uploads/1782635982380-8vfzr3.png",
+                "title": "12",
+                "description": ""
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "articles",
+      "title": "公众号图文",
+      "enabled": true,
+      "order": 4,
+      "type": "projects",
+      "data": {
+        "projects": [
+          {
+            "id": "article-1",
+            "number": "01",
+            "title": "我的「《挪威的森林》年代纪」",
+            "coverImage": "/uploads/1781882943957-8hndgz.jpg",
+            "info": [
+              {
+                "id": "i-1781926787339",
+                "label": "书、影、音日记",
+                "value": ""
+              }
+            ],
+            "description": "原拟标题为:“我不赞成《挪威的森林》作为村上春树的最知名代表作”。后来想想有点耸人听闻，且与私人分享内容的契合度并不高，故改为“我的「《挪威的森林》年代记」”。<div>\n此篇意在分享我对《挪威的森林》的三次印象变迁，以及从其中衍生出的一些个人观点。</div>",
+            "drawings": [
+              {
+                "id": "d-1782634257142-0",
+                "image": "/uploads/1782634257133-nnjls3.png",
+                "title": "01",
+                "description": ""
+              },
+              {
+                "id": "d-1782634257259-1",
+                "image": "/uploads/1782634257251-waqso0.png",
+                "title": "02",
+                "description": ""
+              },
+              {
+                "id": "d-1782634257281-2",
+                "image": "/uploads/1782634257274-qglh0x.png",
+                "title": "03",
+                "description": ""
+              },
+              {
+                "id": "d-1782634257304-3",
+                "image": "/uploads/1782634257294-5sibvd.png",
+                "title": "04",
+                "description": ""
+              },
+              {
+                "id": "d-1782634257351-4",
+                "image": "/uploads/1782634257333-v0hz2q.png",
+                "title": "05",
+                "description": ""
+              },
+              {
+                "id": "d-1782634257380-5",
+                "image": "/uploads/1782634257368-1fe4ir.png",
+                "title": "06",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "id": "proj-1781882721271",
+            "number": "02",
+            "title": "「2024年7月书影音记录」",
+            "coverImage": "/uploads/1781884598698-ebe0od.jpg",
+            "info": [
+              {
+                "id": "i-1781926453291",
+                "label": "书、影、音日记",
+                "value": ""
+              }
+            ],
+            "description": "根据对每部书影音的不同感受，介绍内容会酌情增加或减少。<div><br></div><div>本篇涉及《箱男》[安部公房]、《无限近似于透明的蓝》[村上龙]、《活着》[余华]、<span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《奔跑吧，梅勒斯：新解》[森见登美彦]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《化物语》[西尾维新，新房昭之等]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《漂流少年》[夏目真悟]。</span></div>",
+            "drawings": [
+              {
+                "id": "d-1782634286124-0",
+                "image": "/uploads/1782634286116-5b3fbh.png",
+                "title": "01",
+                "description": ""
+              },
+              {
+                "id": "d-1782634286151-1",
+                "image": "/uploads/1782634286141-ge4fo5.png",
+                "title": "02",
+                "description": ""
+              },
+              {
+                "id": "d-1782634286189-2",
+                "image": "/uploads/1782634286181-1w0hae.png",
+                "title": "03",
+                "description": ""
+              },
+              {
+                "id": "d-1782634286218-3",
+                "image": "/uploads/1782634286207-ykehhk.png",
+                "title": "04",
+                "description": ""
+              },
+              {
+                "id": "d-1782634286264-4",
+                "image": "/uploads/1782634286244-wm08i4.png",
+                "title": "05",
+                "description": ""
+              },
+              {
+                "id": "d-1782634286288-5",
+                "image": "/uploads/1782634286282-njk8nb.png",
+                "title": "06",
+                "description": ""
+              },
+              {
+                "id": "d-1782634286324-6",
+                "image": "/uploads/1782634286310-zl1rak.png",
+                "title": "07",
+                "description": ""
+              },
+              {
+                "id": "d-1782634286371-7",
+                "image": "/uploads/1782634286360-mqp5b7.png",
+                "title": "08",
+                "description": ""
+              },
+              {
+                "id": "d-1782634286400-8",
+                "image": "/uploads/1782634286388-ya4ui8.png",
+                "title": "09",
+                "description": ""
+              },
+              {
+                "id": "d-1782634286441-9",
+                "image": "/uploads/1782634286431-0kg0ya.png",
+                "title": "10",
+                "description": ""
+              },
+              {
+                "id": "d-1782634286472-10",
+                "image": "/uploads/1782634286462-rxltym.png",
+                "title": "11",
+                "description": ""
+              },
+              {
+                "id": "d-1782634286490-11",
+                "image": "/uploads/1782634286484-gsx8z4.png",
+                "title": "12",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "id": "proj-1781882721823",
+            "number": "03",
+            "title": "「2024年8月书影音记录」",
+            "coverImage": "/uploads/1781884612324-c11tet.jpg",
+            "info": [
+              {
+                "id": "i-1781882721823-1",
+                "label": "书、影、音日记",
+                "value": ""
+              }
+            ],
+            "description": "针对上个月的反思换了一下阅览的口味，发现不论是读还是写的激情都消退了很多。果然我更适合长期待在舒适圈里。<div><br><div>本篇涉及《彼得·卡门青德》[赫尔曼·黑塞]、<span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《企鹅公路》[森见登美彦]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《漫长的战败》[桥本明子]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《苍鹭与少年》[宫崎骏]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《侧耳倾听》[宫崎骏，柊葵，近藤喜文]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《龙猫》[宫崎骏]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《怦然心动》[罗伯特·莱纳等]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《普罗米修斯》[达蒙·林德洛夫，乔·斯派茨，雷德利·斯科特]。</span><br></div></div>",
+            "drawings": [
+              {
+                "id": "d-1782572190675-0",
+                "image": "/uploads/1782572190670-edi6oe.png",
+                "title": "01",
+                "description": ""
+              },
+              {
+                "id": "d-1782572190701-1",
+                "image": "/uploads/1782572190698-tjpi61.png",
+                "title": "02",
+                "description": ""
+              },
+              {
+                "id": "d-1782572190716-2",
+                "image": "/uploads/1782572190713-w387ox.png",
+                "title": "03",
+                "description": ""
+              },
+              {
+                "id": "d-1782572190737-3",
+                "image": "/uploads/1782572190732-wn5bpx.png",
+                "title": "04",
+                "description": ""
+              },
+              {
+                "id": "d-1782572190766-4",
+                "image": "/uploads/1782572190761-0yx2ne.png",
+                "title": "05",
+                "description": ""
+              },
+              {
+                "id": "d-1782572190783-5",
+                "image": "/uploads/1782572190779-ibcwvz.png",
+                "title": "06",
+                "description": ""
+              },
+              {
+                "id": "d-1782572190827-6",
+                "image": "/uploads/1782572190824-bgxyks.png",
+                "title": "07",
+                "description": ""
+              },
+              {
+                "id": "d-1782572190844-7",
+                "image": "/uploads/1782572190841-uboyk8.png",
+                "title": "08",
+                "description": ""
+              },
+              {
+                "id": "d-1782572190857-8",
+                "image": "/uploads/1782572190854-xrfzqp.png",
+                "title": "09",
+                "description": ""
+              },
+              {
+                "id": "d-1782572190891-9",
+                "image": "/uploads/1782572190887-ijq9rn.png",
+                "title": "10",
+                "description": ""
+              },
+              {
+                "id": "d-1782572190923-10",
+                "image": "/uploads/1782572190919-xsvcmy.png",
+                "title": "11",
+                "description": ""
+              },
+              {
+                "id": "d-1782572190942-11",
+                "image": "/uploads/1782572190940-90rxrw.png",
+                "title": "12",
+                "description": ""
+              },
+              {
+                "id": "d-1782572190971-12",
+                "image": "/uploads/1782572190968-8axngx.png",
+                "title": "13",
+                "description": ""
+              },
+              {
+                "id": "d-1782572190990-13",
+                "image": "/uploads/1782572190988-js0mki.png",
+                "title": "14",
+                "description": ""
+              },
+              {
+                "id": "d-1782572191016-14",
+                "image": "/uploads/1782572191012-rmqpbz.png",
+                "title": "15",
+                "description": ""
+              },
+              {
+                "id": "d-1782572191031-15",
+                "image": "/uploads/1782572191027-4cf3wr.png",
+                "title": "16",
+                "description": ""
+              },
+              {
+                "id": "d-1782572191051-16",
+                "image": "/uploads/1782572191047-fl8rq5.png",
+                "title": "17",
+                "description": ""
+              },
+              {
+                "id": "d-1782572191085-17",
+                "image": "/uploads/1782572191078-psw6cg.png",
+                "title": "18",
+                "description": ""
+              },
+              {
+                "id": "d-1782572191112-18",
+                "image": "/uploads/1782572191106-xkw2b9.png",
+                "title": "19",
+                "description": ""
+              },
+              {
+                "id": "d-1782572191123-19",
+                "image": "/uploads/1782572191120-sz6j5z.png",
+                "title": "20",
+                "description": ""
+              },
+              {
+                "id": "d-1782572191147-20",
+                "image": "/uploads/1782572191144-gd9stl.png",
+                "title": "21",
+                "description": ""
+              },
+              {
+                "id": "d-1782572191171-21",
+                "image": "/uploads/1782572191167-zyn99w.png",
+                "title": "22",
+                "description": ""
+              },
+              {
+                "id": "d-1782572191184-22",
+                "image": "/uploads/1782572191181-aukd98.png",
+                "title": "23",
+                "description": ""
+              },
+              {
+                "id": "d-1782572191199-23",
+                "image": "/uploads/1782572191196-pjvhm1.png",
+                "title": "24",
+                "description": ""
+              },
+              {
+                "id": "d-1782572191214-24",
+                "image": "/uploads/1782572191211-rjufgd.png",
+                "title": "25",
+                "description": ""
+              },
+              {
+                "id": "d-1782572191237-25",
+                "image": "/uploads/1782572191229-bnk843.png",
+                "title": "26",
+                "description": ""
+              },
+              {
+                "id": "d-1782572191269-26",
+                "image": "/uploads/1782572191265-ibs98o.png",
+                "title": "27",
+                "description": ""
+              },
+              {
+                "id": "d-1782572191294-27",
+                "image": "/uploads/1782572191291-v79iim.png",
+                "title": "28",
+                "description": ""
+              },
+              {
+                "id": "d-1782572191309-28",
+                "image": "/uploads/1782572191306-bw1nam.png",
+                "title": "29",
+                "description": ""
+              },
+              {
+                "id": "d-1782572191337-29",
+                "image": "/uploads/1782572191331-s11ytp.png",
+                "title": "30",
+                "description": ""
+              },
+              {
+                "id": "d-1782572191365-30",
+                "image": "/uploads/1782572191353-9knmmh.png",
+                "title": "31",
+                "description": ""
+              },
+              {
+                "id": "d-1782572191389-31",
+                "image": "/uploads/1782572191385-8y1h1w.png",
+                "title": "32",
+                "description": ""
+              },
+              {
+                "id": "d-1782572191405-32",
+                "image": "/uploads/1782572191401-13mstw.png",
+                "title": "33",
+                "description": ""
+              },
+              {
+                "id": "d-1782572191436-33",
+                "image": "/uploads/1782572191431-esvd6c.png",
+                "title": "34",
+                "description": ""
+              },
+              {
+                "id": "d-1782572191457-34",
+                "image": "/uploads/1782572191453-zg0xbf.png",
+                "title": "35",
+                "description": ""
+              },
+              {
+                "id": "d-1782572191482-35",
+                "image": "/uploads/1782572191479-a5sp9o.png",
+                "title": "36",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "id": "proj-1781882722287",
+            "number": "04",
+            "title": "我看过的，有关「爱」的故事",
+            "coverImage": "/uploads/1781884633071-kz5mk9.jpg",
+            "info": [
+              {
+                "id": "i-1781882722287-1",
+                "label": "书、影、音日记",
+                "value": ""
+              }
+            ],
+            "description": "蹭七夕热度的低质创作。看了一下日历，下一个有关这个主题的节日在半年之后，为防止拖延和忘记，趁着这个时间对我看过的爱情故事做一个小的汇总。有筛选，不全。<div>\n许多故事难以用单一的标签概括，仅凭片面的个人印象进行分类。</div><div><br></div><div>本篇涉及<span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《边城》[沈从文]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《潮骚》[三岛由纪夫]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《春雪》[三岛由纪夫]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《窄门》[安德烈·纪德]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《莎乐美》[奥斯卡·王尔德]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《痴人之爱》[谷崎润一郎]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《国境以南，太阳以西》[村上春树]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《一一》[杨德昌]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《烛尽》[马洛伊·山多尔]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《心》[夏目漱石]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《呼啸山庄》[艾米莉·勃朗特]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《恋爱的犀牛》[寥一梅]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《斯普特尼克恋人》[村上春树]、</span><span style=\"background-color: var(--color-white); font-size: var(--text-sm); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; color: var(--color-stone-700);\">《少年维特之烦恼》[约翰·沃尔夫冈·冯·歌德]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《牯岭街少年杀人事件》[杨德昌]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《断代》[郭强生]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《鳄鱼手记》[邱妙津]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《孽子》[白先勇]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《禁色》[三岛由纪夫]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《海上婚礼》[海子]。</span><br></div><div><br></div>",
+            "drawings": [
+              {
+                "id": "d-1782636257320-0",
+                "image": "/uploads/1782636257252-gdh0go.png",
+                "title": "01",
+                "description": ""
+              },
+              {
+                "id": "d-1782636257387-1",
+                "image": "/uploads/1782636257351-9c4civ.png",
+                "title": "02",
+                "description": ""
+              },
+              {
+                "id": "d-1782636257471-2",
+                "image": "/uploads/1782636257437-aupa73.png",
+                "title": "03",
+                "description": ""
+              },
+              {
+                "id": "d-1782636257545-3",
+                "image": "/uploads/1782636257529-094pyi.png",
+                "title": "04",
+                "description": ""
+              },
+              {
+                "id": "d-1782636257623-4",
+                "image": "/uploads/1782636257613-v33pje.png",
+                "title": "05",
+                "description": ""
+              },
+              {
+                "id": "d-1782636257682-5",
+                "image": "/uploads/1782636257655-0qbs94.png",
+                "title": "06",
+                "description": ""
+              },
+              {
+                "id": "d-1782636257724-6",
+                "image": "/uploads/1782636257707-rif2ce.png",
+                "title": "07",
+                "description": ""
+              },
+              {
+                "id": "d-1782636257772-7",
+                "image": "/uploads/1782636257763-5w6qqw.png",
+                "title": "08",
+                "description": ""
+              },
+              {
+                "id": "d-1782636257828-8",
+                "image": "/uploads/1782636257807-9j2dsv.png",
+                "title": "09",
+                "description": ""
+              },
+              {
+                "id": "d-1782636257869-9",
+                "image": "/uploads/1782636257859-qqu1yv.png",
+                "title": "10",
+                "description": ""
+              },
+              {
+                "id": "d-1782636257912-10",
+                "image": "/uploads/1782636257899-g7etat.png",
+                "title": "11",
+                "description": ""
+              },
+              {
+                "id": "d-1782636257942-11",
+                "image": "/uploads/1782636257932-zw5km9.png",
+                "title": "12",
+                "description": ""
+              },
+              {
+                "id": "d-1782636257990-12",
+                "image": "/uploads/1782636257964-ot6n8n.png",
+                "title": "13",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "id": "proj-1781882723039",
+            "number": "05",
+            "title": "《丰饶之海》，美与生的对决之地",
+            "coverImage": "/uploads/1781884703396-pg3kku.jpg",
+            "info": [
+              {
+                "id": "i-1781882723039-1",
+                "label": "书、影、音日记",
+                "value": ""
+              }
+            ],
+            "description": "《丰饶之海》读后感。\n              零.前情提要 \n              壹.天人的衰弱：四次转世\n              贰.凡人的劣化：本多繁邦\n              叁.生与美的焦虑：三岛由纪夫\n              肆.匣中少女，与假面的自白<div><br></div><div>本篇涉及<span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《丰饶之海：春雪》[三岛由纪夫]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《丰饶之海：奔马》[三岛由纪夫]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《丰饶之海：晓寺》[三岛由纪夫]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《丰饶之海：天人五衰》[三岛由纪夫]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《炎拳》[藤本树]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《四叠半神话大系》[森见登美彦]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《显贵》[三岛由纪夫]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《魍魉之匣》[京极夏彦]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《箱男》[安部公房]、</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">《圣塞巴斯蒂安》[</span><span style=\"color: rgb(51, 51, 51); font-family: QuoteFallback, system-ui, -apple-system, &quot;Segoe UI&quot;, Roboto, Ubuntu, Cantarell, &quot;Noto Sans&quot;, sans-serif; font-size: 15px; background-color: var(--color-white);\">安德烈亚·曼特尼亚</span><span style=\"background-color: var(--color-white); color: var(--color-stone-700); font-family: var(--font-inter), var(--font-noto-sans), 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', sans-serif; font-size: var(--text-sm);\">]。</span></div>",
+            "drawings": [
+              {
+                "id": "d-1782634344246-0",
+                "image": "/uploads/1782634344228-3z9g59.png",
+                "title": "02",
+                "description": ""
+              },
+              {
+                "id": "d-1782634344343-1",
+                "image": "/uploads/1782634344336-u0fluk.png",
+                "title": "03",
+                "description": ""
+              },
+              {
+                "id": "d-1782634344407-2",
+                "image": "/uploads/1782634344398-jlz7ee.png",
+                "title": "04",
+                "description": ""
+              },
+              {
+                "id": "d-1782634344442-3",
+                "image": "/uploads/1782634344433-nbde4p.png",
+                "title": "05",
+                "description": ""
+              },
+              {
+                "id": "d-1782634344509-4",
+                "image": "/uploads/1782634344501-eij5uv.png",
+                "title": "06",
+                "description": ""
+              },
+              {
+                "id": "d-1782634344557-5",
+                "image": "/uploads/1782634344548-ukxgvq.png",
+                "title": "07",
+                "description": ""
+              },
+              {
+                "id": "d-1782634344608-6",
+                "image": "/uploads/1782634344597-7htvq6.png",
+                "title": "08",
+                "description": ""
+              },
+              {
+                "id": "d-1782634344659-7",
+                "image": "/uploads/1782634344652-tini5p.png",
+                "title": "09",
+                "description": ""
+              },
+              {
+                "id": "d-1782634344714-8",
+                "image": "/uploads/1782634344695-wk7l20.png",
+                "title": "10",
+                "description": ""
+              },
+              {
+                "id": "d-1782634344771-9",
+                "image": "/uploads/1782634344764-o7lhcw.png",
+                "title": "11",
+                "description": ""
+              },
+              {
+                "id": "d-1782634344801-10",
+                "image": "/uploads/1782634344791-t0hg22.png",
+                "title": "12",
+                "description": ""
+              },
+              {
+                "id": "d-1782634344818-11",
+                "image": "/uploads/1782634344813-b4xlw3.png",
+                "title": "13",
+                "description": ""
+              },
+              {
+                "id": "d-1782634344857-12",
+                "image": "/uploads/1782634344841-nu4s6t.png",
+                "title": "14",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "id": "proj-1781884567930",
+            "number": "06",
+            "title": "凌晨絮语，Pt.1",
+            "coverImage": "/uploads/1781884718749-6azl07.jpg",
+            "info": [
+              {
+                "id": "i-1781884567930-1",
+                "label": "随笔",
+                "value": ""
+              }
+            ],
+            "description": "凌晨写下的生活碎片。",
+            "drawings": [
+              {
+                "id": "d-1782634367271-0",
+                "image": "/uploads/1782634367264-rgaq3j.jpg",
+                "title": "01",
+                "description": ""
+              },
+              {
+                "id": "d-1782634367331-1",
+                "image": "/uploads/1782634367302-8uvnxr.jpg",
+                "title": "02",
+                "description": ""
+              },
+              {
+                "id": "d-1782634367376-2",
+                "image": "/uploads/1782634367366-iz4k1i.jpg",
+                "title": "03",
+                "description": ""
+              },
+              {
+                "id": "d-1782634367418-3",
+                "image": "/uploads/1782634367403-btnkz5.jpg",
+                "title": "04",
+                "description": ""
+              },
+              {
+                "id": "d-1782634367454-4",
+                "image": "/uploads/1782634367447-jtg1xr.jpg",
+                "title": "05",
+                "description": ""
+              },
+              {
+                "id": "d-1782634367503-5",
+                "image": "/uploads/1782634367491-pz5xfj.jpg",
+                "title": "06",
+                "description": ""
+              },
+              {
+                "id": "d-1782634367546-6",
+                "image": "/uploads/1782634367539-laent1.jpg",
+                "title": "07",
+                "description": ""
+              },
+              {
+                "id": "d-1782634367564-7",
+                "image": "/uploads/1782634367556-306grw.jpg",
+                "title": "08",
+                "description": ""
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "contact",
+      "title": "联系方式",
+      "enabled": true,
+      "order": 5,
+      "type": "about",
+      "data": {
+        "photo": "/uploads/1782393374154-pao26h.jpg",
+        "modules": [
+          {
+            "id": "m-1782393016464",
+            "moduleType": "text",
+            "label": "TEL",
+            "content": "17346210124",
+            "fontSize": "16px",
+            "fontWeight": "normal"
+          },
+          {
+            "id": "m-1782393033832",
+            "moduleType": "text",
+            "label": "邮箱",
+            "content": "245004541@qq.com",
+            "fontSize": "16px",
+            "fontWeight": "normal"
+          },
+          {
+            "id": "m-1782393034824",
+            "moduleType": "text",
+            "label": "微信",
+            "content": "islandiving_2001",
+            "fontSize": "16px",
+            "fontWeight": "normal"
+          }
+        ]
+      }
+    }
+  ]
+}
